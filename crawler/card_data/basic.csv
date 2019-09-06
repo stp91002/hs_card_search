@@ -1,0 +1,134 @@
+﻿name,cardImage_url,mana,text,class,type,attack,health,series,introduction
+啟動,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7ba8f815ab7ba06273e842f7ab1e19a9b5cc89ce137b18da2f0a5f136640620.png,0,在本回合獲得額外1顆法力水晶,2,0,,,basic,有些德魯伊腦中還有著陌生人對他們大喊「給我啟動！」的陰影。
+月火術,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/239223bfb34f1fc5489f59e8b473f918f7744dff58fbbba1b18066407ec68c29.png,0,造成 1點傷害,2,0,,,basic,「施放月火術，一直放不停。」 - 《如何成為德魯伊》第5章第3節
+爪擊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dcc586fd83edcb79a59739f120a0655a042f781690974f787b75101e650dad9.png,1,賦予你的 英雄2點護甲值及本回合+2攻擊力,2,0,,,basic,等爪子露出來的時候，你就會知道誰才是老大。
+野性印記,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6e4f5cba93a76ae3311badf16855dcec28a97a023d2b06e5c37455c9c0a61ff.png,2,賦予一個手下嘲諷及+2/+2<i>(+2攻擊力及+2生命值)</i>,2,0,,,basic,不是水性，也不是油性，是野性的印記。
+兇蠻咆哮,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df6d48fd4a93cd359649b61774312fa9dbe55fd57076098b1ee0c1ad2ca4b2ca.png,3,本回合 賦予你的角色 +2攻擊力,2,0,,,basic,他們在吼什麼？沒有人能說得清楚，不過聽起來像是在大吼「我是猛男」。這大概也不是真正的涵義啦。
+治療之觸,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7cc1dc7df69c7757cab3c265132eaba92dac9bd23d570cfe0c408d27ebcc302f.png,3,恢復 8點生命值,2,0,,,basic,8點生命值，無需等待。
+野性成長,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cba81ab53e7d16b10c405eb028ff99f43c9a49ed888ef884269e26047e76134a.png,3,獲得1顆空的法力水晶,2,0,,,basic,用這個法力水晶成長包，種出屬於你自己的法力水晶，只賣99元！
+揮擊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58ce842084bcfd6a3e144fa8d9fe375885e3a212fbd886a442cac4eb65b9c48a.png,4,對一個敵人造成 4點傷害，並對其他敵人造成 1點傷害,2,0,,,basic,當熊站起來張開雙臂的時候，小心，他即將要伸爪揮擊了！…不過當然，也有可能只是想要抱抱你而已。
+星火術,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37523e3340a9e770783909b5183926e5fa627975cd5758223ab73ee38ddaf59d.png,6,造成 5點傷害。抽一張牌,2,0,,,basic,平衡對德魯伊來說非常重要。這是一張完美平衡的卡牌。
+鐵桉保衛者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc77765eebc1a8adcf32504ec66034a8e2d52db67449c3f2640ad0b61a69f2f1.png,8,嘲諷,2,1,8,8,basic,你根本不敢攻擊達納蘇斯。
+森林狼,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae96fc514c647706e121a1d3af2018aaff940eff3c50dbc3e329de7d1db56ee5.png,1,你的其他野獸獲得 +1攻擊力,3,1,1,1,basic,其他野獸超愛跟森林狼一起出門的。
+秘法射擊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b6c0773ed57d3465468844ef79452b58844848b6605bff23a3d747b9b20dc98.png,1,造成 2點傷害,3,0,,,basic,法師召喚秘法箭矢來賣給獵人，直到獵人們學會足夠的魔法來自己進行製造。接下來的失業率導致暴風城陷入短暫的不景氣。
+追蹤,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93b6e9c0bbfd8da60f8effd0d33054d7b576e2f319acfc0b11cf700ba549164f.png,1,瀏覽你牌堆中最上面3張牌。選一張後捨棄其他兩張,3,0,,,basic,這張是給無法決定要放哪張卡進套牌的人用的！
+獵人印記,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13e4fce3331ef6ecaa4096b50cb786d1a03e113ae832e0f400f2a50e1c1b72e7.png,2,將一個手下的生命值改為1點,3,0,,,basic,別跟獵人玩躲貓貓。
+擊殺命令,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9ea4acb3a35b8cb95dfd3cf8c264fb12aa1b381cb9ba0fa36a8537f466cc9d8.png,3,造成 3點傷害 若你場上有野獸，則造成 5點傷害,3,0,,,basic,「殺！」他命令道。
+動物夥伴,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/280914ef301843263197c0779414659073f59aa12be7aca9cd8209cb61d8d8e7.png,3,召喚一隻隨機的野獸夥伴,3,0,,,basic,你能召喚出米莎、里奧克或胡佛。胡佛造成的麻煩比他的用處還大。
+多重射擊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8cd6402d9b44d25b3253b9410c82a45bf7acb96e3a7cd6bbca621201112f5f86.png,4,對敵方 兩個隨機手下造成 3點傷害,3,0,,,basic,這一切都跟吞吐量有關，懂吧？
+馴犬者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6105a7ebe5dad3a47dd0726fb364958e95fc079700417896d1a6010e57f8164a.png,4,戰吼：賦予一個友方野獸+2/+2及嘲諷,3,1,4,3,basic,「來人啊！關門！放狗！」
+凍原犀牛,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47e199edc75341a7c0607603035f4ecc742a0554d6471ee282d9930796d11053.png,5,你的野獸獲得衝鋒,3,1,2,5,basic,凍原犀牛經常被誤認為是科多獸。還是我誤認了？
+飢餓的禿鷲,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8dd3155a0f1659aa9f3a1511edd4e94d10747f8be42671dd1ae0daf4631ca633.png,5,每當你召喚野獸，抽一張牌,3,1,3,2,basic,如果你餵牠，牠就會完全渾然忘我。
+秘法飛彈,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c84fed2a6cd375304d3ebf9a20d40c1837e8e1cfe05900c50601d59f3a34fa3.png,1,造成 3點傷害，隨機分給敵方角色,4,0,,,basic,你本來以為你能更熟練地控制這些飛彈，畢竟你是個強大的法師，對吧。
+鏡像,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bba193f57a6b9bd400240d7d485b8df07e4282f0ebfe6389f195ad59d29bcf6b.png,1,召喚兩個有 嘲諷的0/2手下,4,0,,,basic,啊哈，是鏡像！像鏡是，哈啊
+魔爆術,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df466c01366d8166499efc3947cd113bdc90b7a9675859cf7284a9ed8001669b.png,2,對全部敵方手下造成 1點傷害,4,0,,,basic,爆一下就清淨多了。
+寒冰箭,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61e31417d17ae9fe0414055a0bddabe1fb27eb80d7ff94fae31b23d2c654a558.png,2,對一個角色造成 3點傷害並使其凍結,4,0,,,basic,大喊「冷爆了！」、「好冷喔！」或「冰一下，寶貝！」是打出這張牌的傳統。
+秘法智力,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1fbd7fc9e55597023ff0ec47d6829ecaf08ff9f3cad1b83f8547fd3e37e6eac9.png,3,抽2張牌,4,0,,,basic,出這張牌會讓你更聰明。而且面對現實吧，我們都不介意再更聰明一點。
+冰霜新星,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9393b3954dec4349ea3d57715bc51543377dc84de7f41805f0727c46a84c5b74.png,3,凍結全部敵方手下,4,0,,,basic,這真的很冷。不管以字面或含意而言。
+變形術,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1a458d5dcb6f9a6f09ada3d66686b75c09ec5658fd80c5270bc60861f265150.png,4,將一個手下變形為一隻1/1的羊,4,0,,,basic,本來這一段是要講雙關話，不過說出口的時候變成了咩…
+火球術,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c30a8d8104f9a2f8b609aa45c8958631806d57fbdd78c11f5730d9ad82606d7.png,4,造成 6點傷害,4,0,,,basic,這個法術用來燒東西很有用。如果你在找可以烘東西的法術，或者用來稍微取暖，你就找錯地方了。
+水元素,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2ab2acf1e8ff9e24a1c75d38e27f4aec85b3f796c5772e7052b431f396aa3ea.png,4,凍結任何被此手下 傷害的角色,4,1,3,6,basic,不要在派對上召喚水元素。氣氛會降到冰點。
+烈焰風暴,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2624cfbabe6529a9b3cdf693517f576fe0015f34d98d342244324bdd02d2c559.png,7,對全部敵方手下造成 4點傷害,4,0,,,basic,當地面著火時，千萬不要留下來看戲。
+力量祝福,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/359fdc8e299bdb9bf0d80ca0f97351a92d927455cddcaeea92cc94986704e900.png,1,賦予一個手下 +3攻擊力,5,0,,,basic,「我現在有讓你閃一邊的力量了。」-剛被祝福加持的蛤蟆邁克如是說。
+聖光正義之錘,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52b7e7f7544b4c6e9496d6419aec9e4635e905666a19c1250672866999887fff.png,1,,5,2,1,4,basic,莫克札王子是稀有武器的收藏家。他會把它們活化，讓它們為他跳舞。
+保護聖禦,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/616a6285cc9857661435de565a4ffdf2aa9d07b3d0bd5bbaa646e256ed19cbc2.png,1,賦予一個手下聖盾術,5,0,,,basic,這個法術的名字改了好幾次，改到連聖騎士都不知道現在該怎麼稱呼它了。
+謙恭,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d200e27cd04932611a4285d2b5fe3c84c085d5df6bcef0eff54b00f718a7d42.png,1,將一個手下的攻擊力改為1點,5,0,,,basic,這張牌會讓人想便便。喔不對，那是「出恭」。
+聖光術,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8478161980a7e3ae9894c345dab9fe08680c74a99d44a1e9fad95c7c6ee577db.png,2,恢復 6點生命值,5,0,,,basic,如果你經常沐浴在聖光之下，你可能得考慮擦點防曬油。
+憤怒之錘,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3624a91a4c152ca6000ccbd50e84be040a2e8210edc8c181723f9b4f4a260bad.png,4,造成 3點傷害。抽一張牌,5,0,,,basic,好的聖騎士會準備很多工具，像是憤怒之錘、復仇之鉗、正義之鋸等等。
+奉獻,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ff4992b6228b362d1375f2f016591cb603891667adc144395b0c458bd53469d.png,4,對全部敵人造成 2點傷害,5,0,,,basic,受到奉獻的土地在神聖能量下散發著光輝。但也有點臭臭的。
+真銀勇士劍,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c27f82198b519f8552dfa7c1f1d01f0050ce2a62dd85da52bd2478793995661b.png,4,每當你的英雄進行 攻擊，使其恢復 2點生命值,5,2,4,2,basic,劈砍切割樣樣都行。也可以拿來開罐頭(不過你最好別這麼做)。
+王者祝福,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba6b519206c4ac75b7c962d36547adf5bcb4244e2e0e3037f65e4cc3bbfa1352.png,4,賦予一個手下+4/+4。<i>(+4攻擊力/+4生命值)</i>,5,0,,,basic,歷史上被暗殺的國王這麼多，你確定你還要他們的祝福？
+諸王守護者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c17b1f329d7b028be608e0ad9ca0310410b5f3921f917a6cb41a6a727e82830.png,7,戰吼：使你的英雄 恢復 6點生命值,5,1,5,6,basic,來自異界的神聖生物還真是老套啊！
+聖光懲擊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ddfa7d734ed993b0c19d6f61cd2a18f14375905b16218d45e0bb13cf719e33a.png,1,造成 2點傷害,6,0,,,basic,不管有多虔誠，每個人偶爾還是需要被揍幾下。
+真言術：盾,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/487b0f69d61788014cdb829d1067569fcc70c6baddb686d7f4389aba52c24b27.png,1,賦予一個手下+2生命值。 抽一張牌,6,0,,,basic,有額外的防護是好事啦，不過這個盾真的會干擾視線耶。
+心靈幻象,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49fe659ed616a952d63af175ac07e54f63d15ba17762605e2fc51a40cf582b8b.png,1,從對手手中複製一張隨機卡牌，並放到你的手中,6,0,,,basic,我知道你幹過哪些好事。
+北郡教士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae88e5a995e6fd8ebd0c610624f9540c49b68ab712364e231e576b8623b1a914.png,1,每當有手下受到治療，抽一張牌,6,1,1,3,basic,他們會幫助受到欺壓及陷入麻煩的人。他們也會賣餅乾。
+光輝術,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a31f87b2489ab638c850af0316784841f1835490441df18d47f630ae46bbcef2.png,1,使你的英雄 恢復 5點生命值,6,0,,,basic,因為你值得！
+神聖精神,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/405ec7d5ee3340124b910a691656906e8aa92bc89ec112cd6d19afda643d17c7.png,2,使一個手下的生命值加倍,6,0,,,basic,麻煩加倍，樂趣也加倍！
+暗言術：痛,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/adaf4e8bb5ee75d0ebb022198a467cf60028225f1bffd1dd552c4b111e504ced.png,2,摧毀一個攻擊力 3點以下的手下 (小於等於3點),6,0,,,basic,這是許多見習牧師施放的「暗言術：煩」的升級版。
+暗言術：死,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3f8b6d197ed85ac7dfb2c8415719c9feb2fc11436204f149e177f3ded9ae11d.png,3,摧毀一個攻擊力 5點以上的手下 (大於等於5點),6,0,,,basic,如果你施放失敗，只會在目標身上留下一個閃電形狀的疤痕。
+神聖新星,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e93ed51679ee0b90ae2993c1432898c82560d8f15abf52e179e05aa95850b88c.png,5,造成全部敵人 2點傷害。恢復全部友方角色 2點生命值,6,0,,,basic,如果抽不到聖光術，將就一下這張吧。可能是因為你作惡多端的關係。
+精神控制,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/027b958fe8d5243f9bc4fbda7a59a9d08516192e60bde354a0d7309ca5c4d619.png,10,控制一個敵方手下,6,0,,,basic,被提名為「最有可能讓你的對手捶牆壁的法術」。
+背刺,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/123a6faf8307369f44623295c6a0a26e0cd9dd5e571f215a1d04cf71090db52b.png,0,對一個 未受傷的手下造成 2點傷害,7,0,,,basic,好笑的是，大喊「你看那裡！」經常能讓你的對手轉身背對你。
+致命毒藥,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ccb2bff4b6fd286a40b05eb487616fde1989369870608897b0002df648fede9.png,1,賦予你的武器 +2攻擊力,7,0,,,basic,盜賊非常小心地保護著製作毒藥的秘密，否則若法師開始把毒藥弄進法術就麻煩了。毒箭術？毒雨術？毒元素？沒有人想要看到那種東西。
+邪惡攻擊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47cb42a1ea43fd56c0df9106b29bb76e0f3c59f19b985460e715a929b91a56c4.png,1,對敵方英雄造成 3點傷害,7,0,,,basic,這個攻擊感覺就是怪怪的。甚至可以說邪惡。
+悶棍,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a20ac8d53e07821342d8945f39b89dac6395eeed80bfcac9a7a40b0e72fb8f0.png,2,使一個敵方手下返回對手的手中,7,0,,,basic,警衛！有這樣敲了又敲，敲了又敲的嗎？
+毒襲,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82e9ec99e8a6acb2326c51fa35eada37315d2892a5addbd8121a933478866aaa.png,2,造成 1點傷害。抽一張牌,7,0,,,basic,忘記塗抹毒藥的毒襲該叫什麼？
+飛舞刀刃,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef046ef03748bde412f538b47f0492f7ff9cf83fa14773e858a724109c09f3ac.png,3,對全部敵方手下造成 1點傷害。抽一張牌,7,0,,,basic,我不愛弄槍、只愛舞刀。
+瘟疫使者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95cf0cc119fdcb6060e2e58c2373f939c21505691f24090fd2baedc924402478.png,4,戰吼：賦予一個友方手下致命劇毒,7,1,3,3,basic,只要一滴，就能體會這種有中毒性的滋味。
+暗殺,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6320b33f3cd53a7b2d4e0e6a14cee6e8bd6be1ec2e06247b3b0e47feeb3e69dc.png,5,摧毀一個敵方手下,7,0,,,basic,如果你不想被暗殺，搬去貧瘠之地然後改名換姓。祝你好運！
+刺客之刃,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf87b78f3bdc885b0eb5d6851dbc2a4dda5139236e59539ef68c914be11a40cf.png,5,,7,2,3,4,basic,保證曾由真正刺客所擁有。內附有雷射標籤的證書。
+疾跑,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86545fa9d10199db542a52e86baae7215ce603cffd711db7d4bafc5ade965840.png,7,抽4張牌,7,0,,,basic,盜賊不擅長慢跑。
+先祖治療,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2950d81a5e80db206e2cac24ca4bcafa485e73e61eadfb1f7f49c3b2642586c.png,0,使一個手下的生命值恢復全滿並賦予嘲諷,8,0,,,basic,其實，我比較喜歡讓活人來幫我治療，別動不動就請出祖先。
+圖騰之力,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80ab5ab3bf30b8c038e042de997170775de2b3e9b29664a742921023305e52e4.png,0,賦予你的圖騰 +2生命值,8,0,,,basic,我們建議從現在起最好停止踩圖騰的行為。
+冰霜震擊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b02045526d8e9f0f43a88922e9e8d3731140222a12d0611e19f838b2aff57626.png,1,對一個敵方角色造成 1點傷害並使其凍結,8,0,,,basic,冰霜震擊！
+風怒,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/077905b216bee54daceb6cfed908b3130284915b3ab88d7966888422e42c1cc2.png,2,賦予一個手下風怒,8,0,,,basic,風怒跟地怒或火怒差不多，只是更輕盈一點。
+石化武器,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8cc782352256fdec80986b831e1ed19ce0e41c2c5b83d5339a19628e5c59421c.png,2,本回合 賦予一個友方角色 +3攻擊力,8,0,,,basic,要是可以把敵人石化就更好了。
+火舌圖騰,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d991d2038175ae8e31053e9be6beff29bf7b7333c466b4c9041f29292e3ce88.png,3,兩側的手下+2攻擊力,8,1,0,3,basic,圖騰雕刻師喜歡用最罕見的木頭來雕刻圖騰。謠傳中甚至有用鐵桉保衛者製作的圖騰。
+語風者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3507d629f2afad5a31235999dbf94731d90051e211fcd9d48462628745c9fa9b.png,4,戰吼：使一個友方手下獲得風怒,8,1,3,3,basic,還有什麼比有口臭的語風者更糟糕的東西嗎？
+妖術,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2747fbe0b371d912e68663f62837ff82d2f7b6578cedba473b45940113f632ed.png,4,將一個手下變形為一隻0/1及有嘲諷的青蛙,8,0,,,basic,如果用妖術在魚人身上的話…好像沒什麼差別，對吧？
+嗜血術,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de16ca5d1cb120777432a365fdcdf2a7b80acd19372275a22d795b2ba3742d01.png,5,本回合 賦予你的手下 +3攻擊力,8,0,,,basic,呃嗚喔哇啊啊啊啊啊！
+火元素,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6703e877df7c281eae97b14a1e6bdbc6bc50f2c1e6a90c92325c798fde658a5.png,6,戰吼：造成3點傷害,8,1,6,5,basic,這傢伙永遠不能洗澡。噁…
+犧牲契印,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf38b2ff7eb664c5bbc59461f14f93ab0371c7b315f70505e222f9f8de66a84a.png,0,摧毀一個惡魔。使你的英雄恢復 5點生命值,9,0,,,basic,這就是為什麼惡魔和術士無法真的變成朋友。
+虛無行者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81499f6f58d391ab6ba16a5dfe0b3f4146d176e41b70f66c7f1e3adc80357093.png,1,嘲諷,9,1,1,3,basic,他真的不會跳「虛無之舞」。不要再叫他試了。
+靈魂之火,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c8481a12dd5c5f26f4c15d59c6987ed13bc22fe5c3816836dd1001f2d951155.png,1,造成 4點傷害。隨機捨棄 一張牌,9,0,,,basic,你正在點燃靈魂嗎？還是用你自己的靈魂燃燒別人？這看起來有很重要的分別。
+腐蝕術,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bac729a9ac9ebd8d7b906d98da4f90539e2bf4755c5190cb032f6b937a3eb84b.png,1,選擇一個敵方手下。在你的回合開始時，摧毀它,9,0,,,basic,一開始只是從辦公室偷支筆。然後，不知不覺，哇！良心就這麼腐蝕了。
+死影纏繞,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c72f23f585cc7cd219523a5d83ab51115a8edea94e39417e4c4a71f9ee557dc.png,1,對一個手下造成 1點傷害。若殺死它，抽一張牌,9,0,,,basic,如果你的法術看起來像是可怕的骷髏，說句實話，你應該要能多抽幾張牌才對。
+惡魔潛獵者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47ade4515e0369948fc2366d73261ef52d26a0cb1b765308054607330eb2c302.png,2,戰吼：隨機捨棄 一張牌,9,1,4,3,basic,這些小狗狗最愛拿卡牌來磨牙了。
+暗影箭,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5862233066442cb142df1d7e2c1a25593f78e2b7653f6a4eb3976a7435fec168.png,3,對一個手下造成 4點傷害,9,0,,,basic,這是箭。這是暗影組成的。你還想知道什麼啊？
+吸取生命,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/921c0c54100990f395bf344b17c64d73f9ccc34b58bab0c7c37d349c0cf53e3d.png,3,造成 2點傷害。使你的英雄恢復 2點生命值,9,0,,,basic,「我剛吸走了你一年的壽命。」
+地獄烈焰,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f49f7e6343a918f61a3af245e372214f51f64a31e01854c113cd22253c8aeae8.png,4,對全部角色造成 3點傷害,9,0,,,basic,像這種無差別攻擊的法術就是術士很難找到夥伴的原因。
+恐怖的煉獄火,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9462b611b1421ce5678cde0eaf21de57ca925657fec8d386c3b05d35702b175f.png,6,戰吼：對全部其他角色造成1點傷害,9,1,6,6,basic,「煉獄火！」-賈拉克瑟斯，燃燒軍團的埃雷達爾領主
+衝鋒,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c603d9df4e46d67db8ce676e6823c15a7d3f00f2c9076626186b1cadf49b71d.png,1,賦予一個友方手下衝鋒。但是本回合無法攻擊英雄,10,0,,,basic,「喂！喂！慢一點啊！」-某個不是戰士的手下
+旋風斬,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff2fa211023024b2e8db0c81dffa302e22b6c2845bc536822d334d8771f6dfaa.png,1,對全部手下造成 1點傷害,10,0,,,basic,要分辨老戰士和新手戰士的方法：菜鳥會在用旋風斬時大喊「耶！」
+斬殺,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fde21af12a77f3dcdcb28bb15826c5dae33bb2ada331fcb51294670905d9b6ea.png,2,摧毀一個受傷的敵方手下,10,0,,,basic,不用心軟，他罪有應得。
+順劈斬,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82e58b3f28a8d9b3a2dcde10788096c3ce045f9df1566bb10032e867f8110d32.png,2,對兩個 隨機敵方手下造成 2點傷害,10,0,,,basic,喂，你們兩個…可以站在一起嗎？一下子就好…
+英勇打擊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/351561898cc809049692be7c1a175ff050527d3027f3ff60d2ee7d48f292e032.png,2,本回合賦予你的英雄+4攻擊力,10,0,,,basic,如果你真的是英雄，應該「每一擊」都是英勇打擊才對。
+熾炎戰斧,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ec47711f1b70601760e96bcda8b617401ea1edb6c1ba77fdfd91d7ef68fd15a.png,3,,10,2,3,2,basic,在和平安詳的年代，這把武器有著另一個沒那麼出名的稱呼，叫「冷凍和平斧」。
+戰歌指揮官,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0620e7467af0ead708c2f10d518c8ccb1c92ebcac985125f6af172d3bc41825c.png,3,你有衝鋒的手下獲得+1攻擊力,10,1,2,3,basic,戰歌這個部族非常戲劇化。當上他們的指揮官未必是一件好事。
+盾牌格擋,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26f319da14e7811c5cd499aa2bafcd9b50f37ba81b87a80f0567218038c55268.png,3,獲得5點護甲值。抽一張牌,10,0,,,basic,盾牌發明的原因就是「臉部格擋」完全沒有作用。
+柯爾克隆精英,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5cdec304648ef852b769df916b321fff641346d6b870521f8c86a9dddaf4c34.png,4,衝鋒,10,1,4,3,basic,柯爾克隆是卡爾洛斯‧地獄吼的精英部隊。這樣說吧，你不會想要在穿著藍色外袍時碰到這些傢伙。
+奧金收割斧,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b26cfdce9f14a11b0a307f687581ce782777e859680080d4e5f905f9c62fe2b.png,5,,10,2,5,2,basic,這不是收割稻穀的，是收割腦袋的。
+巫毒巫醫,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f46faf9d9afaf6f48414d2fa09abb485a3c45f623bbc99c8781242bc54a62d0f.png,1,戰吼：恢復 2點生命值,12,1,2,1,basic,巫毒是一門經常被誤會的藝術。但不管怎麼說，它都是一門藝術。
+魚人劫掠者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78bf9d3f3c4b1d3dee9b777b27bca0ccf4a54f6e026e17ae46efe18cb8cb3159.png,1,,12,1,2,1,basic,姆拉嘎啦啦嘎嘎，啦姆嘎姆嘎嘎啦啦，姆啦嘎嘎嘎嘎嘎嘎，嘎啦卡爾洛斯嘎嘎啦嘎嘎嘎啦啦嘎！
+精靈弓箭手,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/307a7309dc9563cb3610bc0d64c2b2704a6072e1e7422fc3e9c3024d90fa3a23.png,1,戰吼：造成1點傷害,12,1,1,1,basic,不要想約她出去。她會朝著你放箭。
+厲鱗神諭者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b68447df2e8894c863e7b5867eb76381798cc399069c19637437d6efd7493ed.png,1,你的其他魚人獲得 +1攻擊力,12,1,1,1,basic,神諭者算是比較聰明的魚人。但其實，差別好像也不大。
+石牙野豬,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c45a39ef8cae85032a82ac7edf7d72764f10849d00094b5576f28d5e7fa9fa23.png,1,衝鋒,12,1,1,1,basic,這張牌烤起來很香。
+閃金鎮步卒,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/462e0cf2060a3a8fb09d39ce657e5a9f4ed61c92195fbcc22589758c7cf1ca03.png,1,嘲諷,12,1,1,2,basic,如果防禦閃金鎮的全是1/2的手下，那個地方應該早就被敵人碾過去了才對。
+霜狼蠻兵,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a04b7ea99270497b3a15abb96086dbf8de0930902c338e7f1196844163011b76.png,2,嘲諷,12,1,2,2,basic,蠻兵要怎麼「蠻」是有學問的。不是每個兵都能成為蠻兵的。
+血沼迅猛龍,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e32ba86df1e733bc8f90939e057364001c16919006cf56110ed02a39063691e0.png,2,,12,1,3,2,basic,「殺死30隻迅猛龍。」-赫米特‧奈辛瓦里
+見習工程師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfce55ef82529895c2845ca69b4a153448c4e45ecc7b5649df2f9effbdd4de0d.png,2,戰吼：抽一張牌,12,1,1,1,basic,「這一班有一半的學生無法畢業…因為他們已經被變成雞了。」-技工大師歐沃斯巴克，指導「科學講座101」
+狗頭人地卜師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/152a0b21f99b90fa0c5ab97723b208a0eeac04de379a3d906774fc45f4153c87.png,2,法術傷害+1,12,1,2,2,basic,在古早的時候，狗頭人曾是最好的蠟燭商人。後來被逼得太兇，結果就…
+藍鰓戰士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d436cfc9b8a95d5dd7f8bcee594d816990c2e2b39a842e4e46f52949fcd1f0b.png,2,衝鋒,12,1,2,1,basic,他只是想要一個抱抱。濕熱熱的…黏糊糊的…抱抱。
+酸性沼澤軟泥怪,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66b339a09936616e62c08be43f624ee4888e6bc9ed580b06405a46d30821a49b.png,2,戰吼：摧毀你對手的武器,12,1,3,2,basic,軟泥怪喜歡佛朗明哥舞。不要問為什麼。
+獵潮魚人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f807645ca3d7430ceb052cd15bd3727199024257b5775be9f7cd26a1d88731f.png,2,戰吼：召喚一個 1/1魚人斥候,12,1,2,1,basic,「死亡將如潮水席捲而來！」
+淡水鱷,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7afe9a4f4982ba65e2c6db649bd2489d8f0fdfaf501f3e2ed03383baef1d497.png,2,,12,1,2,3,basic,『左撇子』愛德華‧史密斯有次曾嘗試把淡水鱷做成行李箱。
+銀背猩猩族王,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7b692a3e02296e81d78d9e15cbcf8a3bb846d719a4a9f0439e57aa990843a43.png,3,嘲諷,12,1,1,4,basic,他喜歡表現出他是老大的樣子，但真正有決定權的是銀背猩猩族母。
+達拉然法師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7999ce9947e22888edbd9f04f4d500cf700ded320bbc1e75c126ac45d308276.png,3,法術傷害+1,12,1,1,4,basic,你應該沒見過達拉然戰士才對。
+剃刀沼澤獵人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f980387fda777055e33ae6aa5e968d9f057ea947ad7235698279ae689144420d.png,3,戰吼：召喚一隻 1/1野豬,12,1,2,3,basic,曾經有人招惹過一次長牙。就一次。
+狼騎兵,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/086799aed85948e71c1577ca2b20376dc59e6edcfa26e5835ef783a044c5a4c2.png,3,衝鋒,12,1,3,1,basic,獸人騎狼是因為狼能夠適應惡劣的環境，而且毛茸茸又愛撒嬌。
+鐵爐堡步槍兵,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/674e10a57b08e8d8675c4cb0b4d561361b44a9bd542353271139ce3bf99437b1.png,3,戰吼：造成1點傷害,12,1,2,2,basic,「預備！瞄準！乾杯！」
+破碎之日教士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5415d36384c887de06e2acf2f233af421d6ef5fdb62d9421beb2d7551cd206e6.png,3,戰吼：賦予一個友方手下+1/+1,12,1,3,2,basic,他們最愛萃取自太陽之井的魔力礦泉水！
+鐵鬃灰熊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3e38d60a1c80e199c48a6441be1a2cb88b905e01a2e2ec7ff301bc8fb7a7c25.png,3,嘲諷,12,1,3,3,basic,毛皮拿來刷鍋子超好用的，有1/10的效果。
+團隊隊長,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e58e400bb0b452efaa45e37033513846b63af56b9583fdf0545723fdb2b639b.png,3,你的其他手下擁有 +1攻擊力,12,1,2,2,basic,「扣你50點DKP！」
+熔岩狂怒者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fda9f0785881f19ec3a0501f08e1781eb102532b9cd4bd28019717ec611d63c.png,3,,12,1,5,1,basic,他覺得自己很強，但是現在幾乎每個人都能單刷熔火之心了。
+冰風雪人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ae9b783cdf85445276e7b0a6c3cdbc352e88c21c38f71058e2405ab3203a9b9.png,4,,12,1,4,5,basic,他的夢想是下山開一間冰店，只是一直無法鼓起勇氣這麼做。
+地精發明家,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27b61fd9ba14955cf0394e62bd802fa06cbaff64c1d7a4a88de68474bb94e939.png,4,戰吼：抽一張牌,12,1,2,4,basic,她不太清楚她在製造什麼，她只知道做出來的東西一定棒透了！
+機械幼龍技師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c70101f3f1b4a993e7ea8f17221233240dbac5ce86d511691c479815b53f564f.png,4,戰吼：召喚一隻 2/1機械幼龍,12,1,2,4,basic,她還在想辦法要替小機械幼龍「咬咬」加裝一套火箭發射器。
+暴風城騎士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/921115c4196ebb2abc87c4fcf9771b7c78deb536eda6f3019e342646973e54d7.png,4,衝鋒,12,1,2,5,basic,他們對於那次的「死亡之翼事件」仍然感到羞愧。
+森金禦盾大師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2273d64f42686c3007ebf8ffa5b9cd66fc80da98c1470f5cbe3bb81eedaea967.png,4,嘲諷,12,1,3,5,basic,如果你不介意食人妖跟灰塵的話，森金村其實是個還不錯的地方。
+巨魔法師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/576cd41d3da584770c12cc7dbff87d40057cb857c8fdee2511637e77174d484a.png,4,法術傷害+1,12,1,4,4,basic,當初到底是誰提議要訓練巨魔去學魔法的…
+綠洲鉗嘴龜,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/965a4da214c6602091cbb994901a1c819f2280ac8ed5f9d8096fbbfcfa362fe6.png,4,,12,1,2,7,basic,想要跟他的偶像一樣飛行和噴火的夢想是永遠不可能實現的。
+雷矛特種兵,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95a773182bd240ba5318417e7640da50c5213547cbf882d185b70c046149b62f.png,5,戰吼：造成2點傷害,12,1,4,2,basic,雷矛特種兵不僅是爆破專家，他們的野外烘焙技術也超厲害的。
+霜狼督軍,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8658ec3112a20ee1e84f0e494e8863ceb6c2077c8beacf017844b97f3bd9cf7.png,5,戰吼：場上每個 友方手下使其+1/+1,12,1,4,4,basic,霜狼部族與雷矛遠征隊在奧特蘭克山谷陷入了拉鋸戰。每次和平會談的結果都是以加爾凡加上尉殺死調停的使者告終。
+暗鱗醫者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/312cf9b4f64e9821d521751ea365962028846b36fbdbb34c15a563e005dc2edf.png,5,戰吼：恢復全部友方角色 2點生命值,12,1,4,5,basic,治療只是她閒暇時做的事情。其實應該算是嗜好，真的。
+夜刃刺客,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd31e21e240600b069423c7e86c138079b52fa91edd7224548c6158fba8d3d08.png,5,戰吼：對敵方英雄造成3點傷害,12,1,4,4,basic,臉應該是你最不希望被匕首割到的地方，而盜賊偏偏最喜歡用匕首割人家的臉。
+古拉巴什狂戰士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb6c453e2f2fb6e9a60c55be60e711f4ef121d5a6e5ee4cb486d2bd429094060.png,5,每當此手下受到傷害，獲得+3攻擊力,12,1,2,7,basic,痛過，才會有所成長。
+藏寶海灣保鏢,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36fe02bf0f8b931134ecb939b1adf71a12073256062cd99fe9093ad8fbac619d.png,5,嘲諷,12,1,5,4,basic,你可以雇用他…直到有人付了他足夠的金幣來背叛你。
+競技場之王,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aef443a65e1e3253854cf10616742c998c1796ed516319ee20b7100a2fb567a7.png,6,嘲諷,12,1,6,5,basic,他曾經是競技場積分打到2100+的玩家，但那已經是很久以前的事了，而且沒有人能讓他閉嘴不提當年勇。
+魯莽的火箭手,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9707a9e609014ba33250ae1aa4413fe5e261ae2619d0bb932cae7744e69157ca.png,6,衝鋒,12,1,5,2,basic,瘋狂的火箭手。裝滿爆裂物的火箭。這兩樣東西加起來就是無窮的樂趣。
+大法師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c924ec8cea7b6e9840b35c5ffb7dfb2a6cb1600f4f8a4b7eb1bc6f8d40de806c.png,6,法術傷害+1,12,1,4,7,basic,等你能夠消滅任何說你沒資格叫大法師的人，你自然就會獲得這個稱號。
+石拳巨魔,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93b40f35b2754172c09a783a688a6875b8048129a641eb7a984b4d854bf16fd8.png,6,,12,1,6,7,basic,「偶體質好好！偶好便宜！」
+戰爭魔像,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25a0bfda44a82ebfe75168544ced91541309ef08680ca6ced26256e8b25b95d3.png,7,,12,1,7,7,basic,魔像並不會感到恐懼，但是因為某種因素，如果對它們施放恐懼術，它們還是會逃走。是本能嗎？還是想要融入人群？
+暴風城勇士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe5491660f6809ab44a26847340de7aabe3c66dbb1771288072f5d91ccc12b4d.png,7,你的其他手下獲得+1/+1,12,1,6,6,basic,在死亡之翼攻擊首都時，這名士兵是他們小隊裡唯一的倖存者。現在他過得十分苦悶。
+熔核犬,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f173279a50a975f81751baba33117624165f5231f4e9fc28bfac99e704561dde.png,7,,12,1,9,5,basic,你沒辦法馴服熔核犬。你只能訓練牠在吃掉你之前先吃掉別人。

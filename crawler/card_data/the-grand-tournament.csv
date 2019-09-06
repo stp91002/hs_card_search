@@ -1,0 +1,133 @@
+﻿name,cardImage_url,mana,text,class,type,attack,health,series,introduction
+糾纏之根,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c0fbb4606d19ec24c7cddcb4655b2d16e88831397d023d02cd2680ef9de4e95.png,1,二選一：造成 2點傷害，或召喚兩個1/1樹苗,2,0,,,the-grand-tournament,小樹苗：「選我選我選我選我！」
+達納蘇斯志士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48d37e1799fdb0c3b0d2180b395b9cc2bbaed22ea5abf4176ff951a1be770691.png,2,戰吼：獲得1顆空的法力水晶。死亡之聲：失去1顆法力水晶,2,1,2,3,the-grand-tournament,法力水晶就像愛情一樣，難以捉摸。
+刃牙德魯伊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/898a510374494ffbd91db2683c5cafb26008d36aba4d988cc1ac4b627c7b6d30.png,2,二選一：變形為有 衝鋒的2/1手下，或是 有潛行的3/2手下,2,1,2,1,the-grand-tournament,名為刃牙，但是格鬥技不強。
+堆肥,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b222d41eae095b0a998c8d160c33b593b2e40db9d0126e359baf0b6a57698e8.png,3,摧毀一個手下。放一張隨機手下到對手的手中,2,0,,,the-grand-tournament,把你養胖，然後再做成堆肥。
+蠻荒戰鬥者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0a8a48b43c522721a65b88224f44399c58803dd280a6f9ebbe12bb641d98b24.png,4,激勵：本回合賦予你的英雄+2攻擊力,2,1,5,4,the-grand-tournament,相信我，拿塊紅布晃啊晃就能讓他平靜下來，你可以試試看。
+星體共融,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae7ed3689d56f30840c02d23f4ff00e55500ca2f21b616e1425419af3ddc139a.png,4,獲得10顆 法力水晶。捨棄 你的所有手牌,2,0,,,the-grand-tournament,拜月神不只能求愛情，還能求法力水晶。
+荒野行者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ade1ef866a269d2173abfb8769623c179046caa98325d5667fecadb1457ee8b9.png,4,戰吼：賦予一個友方野獸+3生命值,2,1,4,4,the-grand-tournament,她生而狂野，但她還不太確定什麼是狂野…
+荒野騎士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d704b53fc43459cb3982d5e929f84c73473745e00a6dc3cef5b1af8451a387b8.png,7,每當你召喚野獸，使這張牌的消耗 降低(1)點,2,1,6,6,the-grand-tournament,他自備馬匹，所以聯賽主辦單位替他的入場費打了點折扣。
+艾維娜,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed784ac059ccdac1ef209ac8a9e450a014931f7ab2009b7bde838b074be989f9.png,10,你手下的消耗改為(1),2,1,5,5,the-grand-tournament,叫她「小小鳥兒」，她一定會很開心，我保證。
+勇敢弓箭手,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e2a3d3701d4582c1497dcd4ad8cd2f6d6f03dcec0b21afb611acd3783e7c1b9.png,1,激勵：若你沒有手 牌，對敵方英雄造成 2點傷害,3,1,2,1,the-grand-tournament,這致敬得夠明顯了吧。
+全面備戰,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94358aea23d62ba0be2733c34ba7146add4cb2ad1d26c5bd2c3e1ed6fb528acd.png,2,本回合每次施放法術，放一張隨機獵人牌到你手中,3,0,,,the-grand-tournament,雷克薩皺起眉頭瞇著眼睛，一把抓起機關槍。「時候到了，準備開火！」 這張卡牌就是向那個特殊時刻致敬的。
+國王的伊萊克,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f615345a5bd758c1febb8cc86b5939bc844eda9f3a05c377756e52123f44a142.png,2,戰吼：各翻一張牌堆手下，若你的消耗較高，抽出該手下,3,1,3,2,the-grand-tournament,騎伊萊克競技只有炫能形容。
+放熊陷阱,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ee96071c71b9487b230299d60758c10e4be18fdc71f97964000f84bd86796ab.png,2,秘密：在你的英雄被攻擊後，召喚一個3/3且有嘲諷的熊,3,0,,,the-grand-tournament,關門，放熊！
+懼鱗,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16648fb1723ff9ce707190e7df77013c6cf5f28fb3617ca055e4aa632e493259.png,3,在你的回合結束時，對全部其他手下造成1點傷害,3,1,4,2,the-grand-tournament,「搞清楚，酸喉才是那個小夥伴！」
+強力射擊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a5a2890bde4a4abfe6860d740a904302749b0384a2340094f7889952d08ba25.png,3,對一個手下及其兩側的手下造成 2點傷害,3,0,,,the-grand-tournament,碰！碰碰！
+獸欄管理員,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f6df5c6aa517a3e7530558f1bfd4379d6cbb16ae40b447aa51c2323be41d2de.png,3,戰吼：本回合賦予一隻友方野獸免疫,3,1,4,2,the-grand-tournament,她弟弟是妖獸欄管理員，她的工作顯然正常多了。
+山羊牧人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad8f4f26edc28b55a28dc30efc974fa23fb2bc8bf4820501a3eb211b2e621fd4.png,5,戰吼：若你有野獸，召喚一隻隨機的野獸,3,1,3,3,the-grand-tournament,做這行的訣竅就是不要被頂到。
+蜘蛛囊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6749f414597b7b6e0e0d4a9ffd096d74a1da6a2019107a361ee5e9a9d77ab28d.png,6,召喚三個1/1織網者,3,0,,,the-grand-tournament,「怎麼到處都是蜘蛛！快弄乾淨！」
+酸喉,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ae09ed4ae80e36e311c4c6bf8cf06c0cfd8e45c9b87dad24c5469a7af81f3a5.png,7,每當其他手下受到傷害，摧毀該手下,3,1,4,2,the-grand-tournament,在忠實的小夥伴懼鱗的幫忙下，蟄猛巨蟲酸喉可以對抗任何騎士！
+秘法衝擊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/035a8dad08d87a04fe9db040d517cd2465a5253af30c3cf14ca024f7a2a2e3b7.png,1,對一個手下造成 2點傷害。法術傷害的效果加倍,4,0,,,the-grand-tournament,雙倍傷害，雙倍快感！
+陣亡英雄之靈,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04888cbda2ae55af53f68ad9e34e270055e40f491287d8c42c9d467a207f1cd7.png,2,你的英雄能力所造成的傷害提高1點,4,1,3,2,the-grand-tournament,這些英雄似乎永遠無法安息，就算每天去祝福他們也沒用。
+火焰稻草人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1c2488d8fadd3e9a58118424ce7a83dfc97b0be10e161606d43bd569e38c37f.png,3,秘密：當一個友方手下死亡時，隨機召喚一個相同消耗的手下,4,0,,,the-grand-tournament,「火人節可不是你們的專利！」
+變形術：野豬,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d7377008f5aaaea98a776fbab632aede9267bd6a4c0f3fe379c8e1e587062d8.png,3,將一個手下變形為一隻4/2及有衝鋒的野豬,4,0,,,the-grand-tournament,這招一定會叫出胡佛。
+魔法鏢客,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/964bd4209c93f3eb77e68ef76fe6930e500d419c78027349f8aa2660b7c012b1.png,3,戰吼：放一張隨機 法術牌到雙方的手中,4,1,3,4,the-grand-tournament,在他掏出腰際的魔杖之前，沒人知道他會出哪一招。
+達拉然志士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03acb20feca3626e408f12afa97d1a3aa51357f305614735afe0948157ad40a4.png,4,激勵：獲得 法術傷害+1,4,1,3,5,the-grand-tournament,只要下定決心，有志之士就能受到激勵！
+火焰長矛,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e43c5f9c06e4bb31586d1f01c4feaa04a1dfa223a410f8d297519c450daadb9.png,5,對一個手下造成 8點傷害,4,0,,,the-grand-tournament,火焰長矛？還是冰霜長矛？今晚你要用哪一根？
+凜懼島飛龍,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48c27dc64f305230133d6a155caca323a5cf821ba83530003ad7b8e5933fe66c.png,6,你使用英雄能力的次數沒有限制,4,1,6,6,the-grand-tournament,銀白聯賽本來是不准龍類參加的，這樣看來，執法並不徹底呀。
+羅甯,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/348fa0295dcbf8f8a6102e15f3f0ffacab0133cb4b6a6f2366d72942bc3243fd.png,8,死亡之聲：放三張「秘法飛彈」到你的手中,4,1,7,7,the-grand-tournament,他在塞拉摩的英勇長存人心。
+運動精神,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64df9f7d6015a69a9b355d2b72e8047125b22308eac421b6ee039c0f222dfb35.png,1,秘密：當你的回合開始時，賦予你的手下+1/+1,5,0,,,the-grand-tournament,想要在競賽中取勝有兩種方式：發揮不屈不撓的運動精神，或是把競爭對手全都幹掉。
+銀白長槍,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6987bc71eaefc02104f7729c683e5ded0d59fba999e8f232027cf97fd9c1b2c8.png,2,戰吼：各翻一張牌 堆手下，若你的消耗 較高，+1耐久度,5,2,2,2,the-grand-tournament,好槍頭，不用嗎？
+戰馬訓練師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12a3c85d204c040a9e50e3cb868c0f86b491f35e3acd1019bdc935b6f7f8c1f6.png,3,你的白銀之手新兵獲得+1攻擊力,5,1,2,4,the-grand-tournament,他連星期天都要工作，絕對有過勞問題。
+勇士徽印,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4eb8cfdc7d9798dfe69634089448c1eade94b2d89ad50db5f535853903bec9f5.png,3,賦予一個手下 +3攻擊力和聖盾術,5,0,,,the-grand-tournament,這個徽印實用多了。
+魚人騎士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17bc1017ddddf59b05dcbf045533c5424954ea7eabae9809c053c1bfaa3ded39.png,4,激勵：召喚一個隨機的魚人,5,1,3,4,the-grand-tournament,嘻嘻！看看他可愛的小腳腳。
+巨牙矛騎兵,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ed04ca9ed0d546e9c71e939278530eb5b080cb1eddc04c06fdae776e5f9948a.png,5,戰吼：各翻一張牌堆 手下，若你的消耗較 高，為你的英雄恢復 7點生命值,5,1,5,5,the-grand-tournament,我對騎烏龜競技這件事，不予置評。
+高手過招,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3414add2f14f047234a2e22f37f12f7805f9a3164ff1a9125d61b02310577e3c.png,6,摧毀全部手下，只留下雙方攻擊力最高的手下,5,0,,,the-grand-tournament,其他手下消失的原因是競技場外面的攤子太好逛了…
+神秘挑戰者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8adaf96b59c46b9580daaa254a4cfd42c8020c76789860289e383c99f9a3cf84.png,6,戰吼： 取出你牌堆中的每一種秘密並放到戰場,5,1,6,6,the-grand-tournament,口氣很差，脾氣很壞，但其實只是害羞而已。
+『純淨者』埃卓克,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8dfa1a0047a4d4d7e872f3b8dbdfedc917e8add2665532f4a4f53c7b2022d03a.png,7,戰吼： 將所有敵方手下的攻擊力改為1點,5,1,3,7,the-grand-tournament,沒人比埃卓克更適合單邊眼鏡了。
+真言術：耀,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44e5a4c560fc7ccf8d27416d09da58bd5bb16bd932cd4e6c39fea73df707e317.png,1,選擇一個手下。每當其進行攻擊，為你的英雄恢復4點 生命值,6,0,,,the-grand-tournament,讓手下以追求榮耀為目標，會讓他們有強大的動力戰鬥。但有時候只要用一根冰淇淋，也能有差不多的效果。
+快速治療,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e605e34efe8e225fede8bc2cf2cecc54ff411fd3e55e7152e9f6456172e59cd.png,1,恢復 5點生命值,6,0,,,the-grand-tournament,快！治療我！
+歸順,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/399a3fb89be90785e0f86d49e42aa438841ee36a6947d43804b5127210001eee.png,2,複製一個敵方的手下到你的手中,6,0,,,the-grand-tournament,「不騙你，我們這邊福利比較好！」
+混亂,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a886bb083b934bbf678c17d38072da9b9a23c693e4eb0ea7db00a2465a874a09.png,2,對調全部手下的攻擊力和生命值,6,0,,,the-grand-tournament,這招真強！
+龍眠使者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e370355223292e4ce18f0245c691bda32db6c2bdd554f173ace9621a81c0c5c4.png,2,戰吼：若你手中有龍類，獲得+1攻擊力和嘲諷,6,1,1,4,the-grand-tournament,五大巨龍軍團把監視銀白聯賽當成他們的首要任務。
+暗影惡魔,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f98ac20e1b5ce1e17b9cd3a6c3be23adb7d893182af93d882f0916e5796b4f7.png,3,每當你抽牌，使抽出的牌消耗降低(1)點,6,1,3,3,the-grand-tournament,它希望有一天可以成為你最忠實的暗影好朋友。
+暗影爪牙,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9101cb6616a621b2ff3dfee07b3b8f355a06ea538096d68d0fc3271477066a75.png,4,激勵：對雙方英雄造成4點傷害,6,1,5,4,the-grand-tournament,毫無反應，就是個暗影爪牙。
+神聖勇士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b1603a5d22150f3e3f004d7d9d5472c15912e8d8f501ab94c96e51f4ca477ab.png,4,每當一個角色受到治療，獲得+2攻擊力,6,1,3,5,the-grand-tournament,她喜歡看到人們過得越來越好，所以總是會讓大家吃點苦頭，再出手相救。
+告解者帕爾璀絲,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58782bc6a8539069569b3fc7de641981eb4b922b8efb60f43f86be9fdd4c1788.png,7,激勵：召喚一個隨機的傳說手下,6,1,5,4,the-grand-tournament,她能看穿過去，讓你面對恐懼。而最常見的恐懼是從斯尼德的伐木機裡跳出管理者埃克索圖斯。
+海賊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d2fcd1ddbd0a87b61f5168a6a76cd151856401c1870249e4b0482076492d769.png,1,每當你裝備武器，賦予它+1攻擊力,7,1,2,1,the-grand-tournament,當海賊最大的好處就是褲子帥氣。
+扒手,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/298f8cf17c4d900a16987f5195f15e17a30b0b174ca9a8e3a57790facb119a76.png,2,每當此手下攻擊英雄，放一張幸運幣到你的手中,7,1,2,2,the-grand-tournament,他收藏了一大堆皮包，可以隨心情穿搭！
+幽暗城驍士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ace9afecc2ac066e00a4b791d3dd7f1f9010b754a3937cd8bc215151fccf4e1.png,2,連擊：造成1點傷害,7,1,3,2,the-grand-tournament,在加入幽暗城之前差點就變成了暴風城的一份子。
+地底潛伏,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c9b12c2c5652820c05eeea6ed99fe94a2d027bf68c18687f50fcc5dcbf8c8e7.png,3,將3張伏擊洗入對手的牌堆 抽中時為你召喚一個 4/4奈幽蟲族,7,0,,,the-grand-tournament,幫我拿著一下好嗎？我保證不會孵出大蜘蛛來的。
+黑市商人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2db24541f3d2581173987c563c1ead5a9c0bdbdf3e75f472941f64430b3ef0f.png,3,戰吼：若你有海盜在場上，獲得+1/+1,7,1,4,3,the-grand-tournament,我這有筆好交易…就是狠狠打爆你的臉！
+盜竊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2517ad4493e37df3989bfafaf86ffc9d6af8da2790827dd119a7fbcf1e691fa0.png,3,隨機將2張對手職業牌放到 你的手中,7,0,,,the-grand-tournament,法術在手，天下我有！
+毒刃,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d608bcb251730f16bb4cfaff5d3c80b36fc9e1e67d5fc87e1f7a8302789378f7.png,4,你的英雄能力 會賦予這把武器+1攻擊力，而非取代它,7,2,1,3,the-grand-tournament,一把刀最多能淬幾次毒？答案絕對超乎你想像。
+影潘騎士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6188c44e8b9b935e8732896b10f81ac514af45b0ffdfe3ad942ed50221cd1ae.png,5,連擊：獲得+3攻擊力,7,1,3,7,the-grand-tournament,在恆春谷的事情解決了之後，他想要休息一下。於是他來到了這個白雪皚皚的地方，準備殺怪放鬆身心。
+阿努巴拉克,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e7de275d66ce208b737965d8505a9c4878074fa0b25622081842d29cd21a301.png,9,死亡之聲：使這張牌 返回你的手中，並召喚一個4/4奈幽蟲族,7,1,8,4,the-grand-tournament,在巫妖王那些狗屁倒灶的事發生之前，他還算是個不錯的傢伙。
+先祖知識,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a2bc89a7ee227a3a8caef99b6416548a31fbd5efdb3ca2cdc521fa86ae3f23b.png,2,抽2張牌。超載：(2),8,0,,,the-grand-tournament,「阿祖，救我！」
+圖騰魔像,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32cc7282550730e77077e68d11951cd7bdd95911a95626e273f84193192bfd29.png,2,超載：(1),8,1,3,4,the-grand-tournament,其實就是把圖騰拼裝在一起。
+巨牙圖騰師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6db3f35c4c82bfbf3aefef1652f6f89aff0aacab9ca6f5e291a64f4c53d06a0c.png,3,戰吼：隨機召喚一個基本圖騰,8,1,3,2,the-grand-tournament,巨牙海民顯然對圖騰的種類不太挑剔。
+治療波,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ac831ecec77a7a4a47c66bb634b64569de95e10b20d48ca14e6908fa39bd748.png,3,恢復 7點生命值。各翻一張牌堆手下，若你的消耗較高，改為恢復 14點,8,0,,,the-grand-tournament,恢復薩高手的最愛！給你一波未平一波又起的治療～～
+元素毀滅,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8152747ebc6fbb11b6ae220e52af39daa43cb356416c8620e0a0077b3ee6a872.png,3,對全部手下造成 4到 5點傷害。超載：(5),8,0,,,the-grand-tournament,我本人不是薩滿啦，但「元素毀滅」這件事不是和他們的信仰背道而馳嗎？
+德萊尼圖騰雕刻師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a74db68d044fda6b9c930b23aad96e6a90340b89918c3ed1147c10f1404485bf.png,4,戰吼：場上每個友方圖騰使其獲得+1/+1,8,1,4,4,the-grand-tournament,這年頭要找到師傅純手工打造的圖騰不容易了。
+充能戰錘,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b17a47fde95e05017d3c54d030970c006cbb23060e2dd294513d1fd6ffa47805.png,4,死亡之聲：你的英雄能力改為「造成2點傷害」,8,2,2,4,the-grand-tournament,唯有此錘認可之人，才能將它舉起。
+雷霆崖驍士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/295cfb05d2197d753f54b3b24552523bd16c4942fe8f4be90700eca87284337f.png,5,激勵：賦予你的圖騰+2攻擊力,8,1,3,6,the-grand-tournament,讓圖騰攻擊才不算作弊，規則又沒說不行！
+喚霧者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0d09420219006ede509a5452742a918f080c8708c042e2ef4de0d358574baf7.png,6,戰吼：賦予你手中和牌堆中所有的手下+1/+1,8,1,4,4,the-grand-tournament,喚霧不像聽起來的那麼羅曼蒂克，不小心就會讓濕氣太重。
+惡魔融合,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d238f565243ef02bdb61a2955f02db31ef5133a6e0fadb963bef4a5677924bc.png,2,賦予一個惡魔+3/+3。給對手 1顆法力水晶,9,0,,,the-grand-tournament,裝在惡魔炸彈上，威力大增！
+憤怒守衛,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/edd410edbd4863a3f1a6d3a45b830bcf948067826e9fa5a4c0138c876ae2976f.png,2,每當此手下受到傷害，對你的英雄也造成等量的傷害,9,1,4,3,the-grand-tournament,面對5個煩人機器人的時候，不論是什麼守衛都會變成憤怒守衛。
+小小邪惡騎士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2db7d4488101e3069d94f1a14990aae6b8ede51ba2bbf6d3c7cc4b21eb1b0b6b.png,2,每當你捨棄一張牌，獲得+1/+1,9,1,3,2,the-grand-tournament,「不對不對，我選的是小小邪惡法師！」
+賈拉克瑟斯之拳,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b89ea508cf41b659e2d8454b3a729868be091769e2a4d980992b0cb220a533ff.png,4,每當你打出或捨棄這張牌，對一個隨機敵人造成 4點傷害,9,0,,,the-grand-tournament,*並非實際的賈拉克瑟斯之拳。
+恐懼戰馬,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77557909bc50ae120c048a7cd435f69d9d5a0f370852d201a0e374f747a20bae.png,4,死亡之聲：在回合結束時，召喚一匹恐懼戰馬,9,1,1,1,the-grand-tournament,克雷山多召喚戰馬、自信滿滿、迎向勝利。因為有了這匹戰馬，就等於擁有了整個騎兵團。
+虛無粉碎者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78db297dcc4524dc7fcb9df7fa938dc786fe262a5e08003532e211dd14ccdebc.png,6,激勵：雙方各摧毀 一個隨機手下,9,1,5,4,the-grand-tournament,大家比較喜歡叫他的小名「衛斯理」。
+威爾弗雷德‧菲斯巴恩,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96702dcb6d720c8fc94fa7ef2e51981863fc64fc0c6463b7e981638759a1015c.png,6,使用你英雄能力抽到的牌消耗為(0),9,1,4,4,the-grand-tournament,他可以召喚出任何東西，包括可怕的末日守衛*！ *他有信心這次會成功。
+黑暗交易,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7faf6f9d791b7f0ac170c196d20ae32942f886b2a652c684996b7e973f71c69.png,6,摧毀2個隨機敵方手下，捨棄 2張隨機卡牌,9,0,,,the-grand-tournament,雙輸局面的最佳範例。
+可怕的末日守衛,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81990a839c5fcbd75979ca1d7dba6dda0ddab4b940d3b90aab6114f9d22d72cf.png,7,,9,1,6,8,the-grand-tournament,在可怕度沒提升之前，只能叫做可愛的末日守衛。
+練習夥伴,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49a01613ee33c52fe2fc39197986a861549740b3b4c70225efa229fd7f214179.png,2,嘲諷 戰吼：賦予一個手下嘲諷,10,1,3,2,the-grand-tournament,「來來來，你來！」
+提振士氣,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd4981c86a31a096d12df0d50d40231fb2ddd9583a2419233fff8f6a69753e5b.png,2,賦予你有嘲諷的手下+2/+2,10,0,,,the-grand-tournament,最好的攻擊就是防禦。
+雅立史卓莎的勇士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28660be27ea8e5bd6cae432c3ceaab2785cecb8b73f87dba9857214528ec140f.png,2,戰吼：若你手中有龍類，獲得+1攻擊力和衝鋒,10,1,2,3,the-grand-tournament,「我要她看起來刺刺的，刺～刺～的。有很難嗎？不是隨便弄幾根就算了，全身都要刺刺的！」 - 雅立史卓莎
+奧格瑪志士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c96199482ec967b6bce59e69503ba41b9a1cdc0b4376800c63eabed2471349b8.png,3,激勵：賦予你的武器+1攻擊力,10,1,3,3,the-grand-tournament,「每三個獸人裡面就有四個數學不好。」 - 憤怒的澤爾格
+重擊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48e60b88558ea54157cc596fc33413df43e77db582b69484f7800599c3590b41.png,3,造成 3點傷害 獲得3點護甲值,10,0,,,the-grand-tournament,你以為重擊不需要練習嗎？呃…還真的不太需要。
+王家防衛者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e821c98a33f617ac1b9463b5975265cbac7a2d4cab054cf61c43ffaf86b1f0e9.png,3,戰吼：若你有嘲諷的手下，獲得+1耐久度,10,2,3,2,the-grand-tournament,總有一天，會有人把盾牌取名叫「王家攻擊者」。
+猛瑪象人首領,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9a9bdf3b6fb5426422e89db1b50fd30fd001b6d075add4ef9f40b039f4a420b.png,4,同時也會對他目標兩側的手下造成傷害,10,1,5,3,the-grand-tournament,買一送二，買一拳送兩拳！
+海劫者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0cb0ed4aa5de0479379fc251959f58d8b5261815448c8a25efc19f04fedc5db.png,6,當你抽中它時，對你的手下造成1點傷害,10,1,6,7,the-grand-tournament,至少你碰到的不是海劫王。
+瓦里安‧烏瑞恩,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5fa3dc1e354c6f7acedbc680a7a4eef14f627d0bc3aaedbb76ea5ec353f5aac.png,10,戰吼：抽3張牌 你抽到的手下會直接進入戰場,10,1,7,7,the-grand-tournament,聯盟的共主！安杜因的父親！同時也是競技場高手！平均戰績12勝！
+低階侍從,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c09b77ec1a5dcc257058796f571cdd19fe3b88cbe6772a28ff0e033f75469ab.png,1,激勵：獲得+1攻擊力,12,1,1,2,the-grand-tournament,我可不是最低階的！
+聯賽觀眾,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/174051158477c1eb218281a56c118024d55fac6151970d86f0b259f8d41c8b2d.png,1,嘲諷,12,1,2,1,the-grand-tournament,買到銀白聯賽季票啦！太爽啦！
+受傷的科瓦迪爾,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c82125a7df7a2bdfb9f53933cd763edf503938e50021a05e27b18feb567051cb.png,1,戰吼：對這個手下造成3點傷害,12,1,2,4,the-grand-tournament,「別擔心，只要用了這款保養品，皮膚狀況很快就會改善。」
+加基森矛騎兵,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0468e2968c013783effd348829e48f311f64353d7447a988214b56d1968db75.png,1,戰吼：各翻一張牌堆手下，若你的消耗較高，獲得+1/+1,12,1,1,2,the-grand-tournament,「是你自己不加裝電鋸的，怪我囉？」
+骨衛中尉,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0784d8fe24abb40f9b15d3468fee5caee068ca16eac5ee0b17dd5f22b4409a7.png,2,激勵：獲得+1生命值,12,1,3,2,the-grand-tournament,帥氣的護甲之下只剩殘破的軀幹，或許連肉都沒剩多少。
+銀白巡邏兵,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f259cae6ebc4a3243b9e39c47526c0a328cb4b02f3154dabc20ae62379cf5466.png,2,無法攻擊 激勵：本回合可攻擊(進場回合除外),12,1,2,4,the-grand-tournament,一個口令一個動作。沒有口令沒有動作。
+要塞指揮官,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26d2918241327ac367343a31ac9d397ec93a7cd642634b4990ab5e8255d19114.png,2,你每回合可以使用兩次英雄能力,12,1,2,3,the-grand-tournament,別看指揮官這麼兇，其實他是刀子嘴豆腐心啊。
+槍僮,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61d1fe64c352fb8a99c3e38d9c6ae461212172fa8f54f83eb0a78238fe38e414.png,2,戰吼：賦予一個友方手下+2攻擊力,12,1,1,2,the-grand-tournament,槍僮是獸人軍隊裡最基礎的階級，但奇怪的是，獸人似乎不太用長槍。
+火焰雜耍師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d28c1ae82ae615061e8bbf3b09e1d4aa83584fc244d9f79e03ef2a4c5f0b074.png,2,戰吼：對一個隨機敵人造成1點傷害,12,1,2,3,the-grand-tournament,「我本來是個電鋸雜耍師，直到膝蓋中了一鋸。」
+聖光勇士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b0f8f742540a11497cb3d6114047bc027ff84cd6785a3cc6bf77f9b0a2d7998.png,3,戰吼：沉默一個惡魔,12,1,4,3,the-grand-tournament,聖光啊！你有聽到那個敵人嗎？
+銀白騎兵,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/646ce6e7a89a78197b36db390bbd4d9c61246e465c10e4ba666b8cd9cb9e0b45.png,3,衝鋒 聖盾術,12,1,2,1,the-grand-tournament,這匹馬名字叫尚鋒。
+大會主持人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1710f869a6f010edf9ba243f4aa6c37c09c7c5b51727f6676883360b790a492.png,3,戰吼：若你有法術傷害的手下，獲得+2/+2,12,1,4,2,the-grand-tournament,請血精靈當主持人所帶來的收視率不可小覷。
+白銀之手長官,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89b368045db24a1f5c54d3cf77685e429902eaf1f4c25b6af04711ce049e0b57.png,3,激勵：召喚一個1/1白銀之手新兵,12,1,3,3,the-grand-tournament,「我走到哪，這些新兵就跟到哪，真討厭！」
+艾狄絲‧暗寂,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/858534f71670822f11edd8c4c39ff77b0b4f8576dd6746175b26973ab08cf14c.png,3,每當你對此手下施放法術，對一個隨機敵人造成3點傷害,12,1,3,4,the-grand-tournament,最討厭人家叫他們「黑白雙煞」。
+龍鷹騎士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62711d378c706366ee3549d1209467956e75b1d23dc3a17ae7105ea120cfc638.png,3,激勵：本回合 獲得風怒,12,1,3,3,the-grand-tournament,看啊，這東西也會翻滾。
+破壞者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e528f0b7f12d80f93eb7e7455b991609b7b57985912b8e695d8b18092e39f3db.png,3,戰吼：下回合對手的英雄能力額外消耗(5)點法力,12,1,4,3,the-grand-tournament,其實他真的想為你準備驚喜，只是弄巧成拙了。
+靜默騎士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d99f67a60811d084ad38e04089c316257d2873c4f89ea199bd09ba31d63982f7.png,3,潛行 聖盾術,12,1,2,2,the-grand-tournament,在圖書館工作過之後的老習慣改不掉。
+擊劍教練,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6de1f016c4d95b2c705eebf959484e481ce21a3876f7d03f35643deb09bca27d.png,3,戰吼：你下次使用 英雄能力的法力消耗減少(2),12,1,2,2,the-grand-tournament,擊劍擊得好，勝利跑不了。
+大競技場經理,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7796e810f67fb6c599ebd8c1940d1b64288f97da16a148f354332722ac3033f.png,3,激勵：使這個手下返回你的手中,12,1,2,5,the-grand-tournament,工作內容還包括鬥士的生涯規劃。
+寒冰狂怒者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9d098bc95cad57e232b68bd592a9d40f25552c97792224f3abf3f8b0fe6b9a4.png,3,,12,1,5,2,the-grand-tournament,比熔岩狂怒者冷靜多了。
+菲歐拉‧光寂,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74a8bd16b6ef1bcc1b702830d0a138f2d9d4d400a3d47939556868f8adb184a5.png,3,每當你對此手下施放法術，獲得聖盾術,12,1,3,4,the-grand-tournament,最喜歡人家叫他們「黑白雙煞」。
+湖中少女,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa57975d344736f0b7f6eb99204e1e2ff1fe863994cf1536691120d409617a19.png,4,你的英雄能力消耗的法力為(1),12,1,2,6,the-grand-tournament,她可不會問你掉的是金斧頭還是銀斧頭。
+大明星,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9619bf0c70f7f010997c84d35fe3e262099f821a4c198b8708c8e1b6c2d5ed6e.png,4,每當你打出有戰吼的牌，獲得+1/+1,12,1,4,4,the-grand-tournament,觀眾們總是期待致命一擊。
+嚴寒狗頭人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4fc16f3f4ddb2bdf032eea0b5acc8a7a0c16ec1442633eecbf06163d45a1a06.png,4,法術傷害+1,12,1,2,6,the-grand-tournament,諷刺的是，蠟燭是造成嚴寒狗頭人死亡的主要原因。
+暮光守護者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ddaff6399be1f03cb285b5352865c46776b1f69e1763a6c42219dc86db74b7c.png,4,戰吼：若你手中有龍類，獲得+1攻擊力和嘲諷,12,1,2,6,the-grand-tournament,牠只是黑龍軍團魔法實驗下的無辜犧牲品，牠原本也想做個好人啊！
+聯賽醫護兵,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8932307fbed2f9be3d1a3e611173ce680d1a8c053bac790ab8817c84a4b73ad2.png,4,激勵：為你的英雄 恢復 2點生命值,12,1,1,8,the-grand-tournament,醫護兵也有聯賽，但銀白聯賽顯然有趣多了。
+裝甲戰馬,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0de46b6e7bf2cd6f32612167fedd5417ef295f57addd4476a3a8e6908e9a54f.png,4,戰吼：各翻一張牌堆手下，若你的消耗較高，獲得衝鋒,12,1,5,3,the-grand-tournament,注釋：穿著裝甲的作戰用馬匹。
+餐點小販,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57ffab16437ab98cb96a2873bb38a09a0090370420f1f06b8a95d2e833ccce7c.png,4,戰吼：替雙方英雄 恢復 4點生命值,12,1,3,5,the-grand-tournament,為了應付從各地來的客人，還賣了咖哩魚蛋和雜碎麵。
+『穿刺者』戈莫克,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/164be439b7256990b38af3bb31ac418b2c891488c6ab02bd8ae4cb684ecac074.png,4,戰吼：若你有至少4個手下，造成4點傷害,12,1,4,4,the-grand-tournament,戈莫克在聯賽競技場旁邊的小帳棚開班授課，教導穿刺理論與實務。只要25金，你也可以成為穿刺高手！
+邪惡挑釁者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4168bbe5d7add76c2f0d64c778c7cf59b2c63e53a2e9e3bc5e7c1a60e9854c3.png,4,嘲諷,12,1,5,4,the-grand-tournament,「你以為要嘴砲這麼簡單嗎？」
+穆克拉的勇士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/047420c975f4ee07e1909276129e5028a5c5634aa11b16b6f3b68b38699fd7b2.png,5,激勵：賦予你的其他手下+1/+1,12,1,4,3,the-grand-tournament,牠想把自己取名叫「凱撒」。
+發條騎士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/073db2e94401e3aa4cf8af3c176260082d3d4218c6e6cbaa68c9a591c26afdb3.png,5,戰吼：賦予一個友方機械+1/+1,12,1,5,5,the-grand-tournament,要上緊發條可要花一番力氣。
+募兵官,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea24f71609221aacfb36034b64da894ac946c6fbc4485e12862cbaf0ddb9b3c9.png,5,激勵：放一張2/2侍從到你的手中,12,1,5,4,the-grand-tournament,現在就加入銀白十字軍！我們的外袍帥氣好看，我們的寶劍酷炫有型！
+科瓦迪爾劫掠者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8bee669e384ac4917f549836dce2d7a11596e49525221c27dc16f5466eb9ec88.png,5,激勵：獲得+2/+2,12,1,4,4,the-grand-tournament,別急別急，下次就去搶你家。
+鬥技場鬥士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb0efde07726fcb70bc8de62790d87feee0431332339fbb38a0c519b7ff2267a.png,5,,12,1,5,6,the-grand-tournament,你在鬥技場裡到底經歷過了什麼？
+奈薩斯勇士薩拉德,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce8b8a3c0101dca0eee0f17e706a4cc161879c3b7a38579ab232dc920385e71b.png,5,激勵：放一張隨機法術牌到你的手中,12,1,4,5,the-grand-tournament,以太族也有他們的競技聯賽，薩拉德是他們的冠軍。他同時也是以太熱狗大賽的常勝軍。
+莫古的勇士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b93b2421adb01dbffa41ba9f21afba5d006fac2369160378561a4aa5f0f89b15.png,6,有50%機率攻擊 錯誤的敵人,12,1,8,5,the-grand-tournament,戰鬥技巧高超，只是不太會選目標。
+至尊矛騎兵,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c21b7862b47d8f329e236c99489f7df1334a9c75146ac67d1730c0b0745e1fb.png,6,戰吼：各翻一張牌堆手下，若你的消耗較高，獲得嘲諷和聖盾術,12,1,5,6,the-grand-tournament,還要通過至尊對決，才能成為終極至尊矛騎兵。
+大十字軍,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a98416d8bb8c60e1d5f357468a56974e9904b74c1b1eb863bd804ce29038cbd.png,6,戰吼：放一張 隨機聖騎士職業牌到你的手中,12,1,5,5,the-grand-tournament,她以聖光和正直之名參加過多次遠征，最近的一次目標是打擊哥布林詐騙集團。
+雜耍吞法者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a009f38bb370f373e6c36787e2b99f5e1c724229534684188f0521f2a1c03eb.png,6,戰吼：複製你對手的英雄能力,12,1,6,5,the-grand-tournament,你吩咐，我照辦！
+波爾夫‧拉姆榭,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5812fe8d187aaf0409a926b1f653773aa1deb99819c54893138d4dfb16b0abe1.png,6,每當你的英雄受到傷害，這個手下會幫你承受,12,1,3,9,the-grand-tournament,波爾夫目前排名坐二望一，假如他的死對頭雷布朗沒來的話。
+科多獸騎士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50443d254b006af76813c88a80070b27f497c1d81d769ee6f2f460a1f69247c9.png,6,激勵：召喚一個3/5戰鬥科多獸,12,1,3,5,the-grand-tournament,犀牛？那是什麼？我是科多獸騎士！
+骷髏騎士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6641976889561f4702ad6569b30a1492b57a372560efb115ffc3fefb44456f1a.png,6,死亡之聲：各翻一張牌堆手下，若你的消耗較高，使這張牌返回你的手中,12,1,7,4,the-grand-tournament,這真的只是點皮肉傷。
+審判者瑪瑞爾,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7764563ef32e49cfce13ed51b29e218c31b655f4916675501f14db717c9919e7.png,6,戰吼：把你的基本英雄能力變得更強,12,1,6,3,the-grand-tournament,喔喔喔我感到體內充滿力量啦！
+捕獲的蟄猛巨蟲,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73186903e0fdff84649d34a6d983f7528f112eba197a55c68eef64a85e4d5e84.png,7,,12,1,5,9,the-grand-tournament,你可以養牠，但要保證每天餵牠，而且要把大便清乾淨！
+寒冽之喉,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26f7165e0fdc5e7031dd9727b5414625615999b239754d3b4bb32db12b82a26a.png,7,嘲諷 死亡之聲：若你手中有龍類，對全部手下造成3點傷害,12,1,6,6,the-grand-tournament,寒冽之喉老想破壞聯賽，要不是有幾個小鬼來亂，她早就成功了！
+天空隊長克拉格,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9318163551ca6cc3873a374ef96a7e912db1daee8ff08f85d7c16afbab16b0af.png,7,衝鋒鋒鋒鋒～ 每個友方海盜使消耗減少(1),12,1,4,6,the-grand-tournament,有什麼能比騎在鸚鵡上，戴著顎骨肩甲，拿著帶勾的長槍，加上一頂海盜帽還來得煞氣呢？我看是沒有。
+北海海怪,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/706c6caaeb04eee67fec81b23faf7c99d5f227b2585ce390acacffa0d72b1e21.png,9,戰吼：造成4點傷害,12,1,9,7,the-grand-tournament,你絕對無法想像要花多大的工夫，才能把這傢伙抓起來。
+冰嚎,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4efa8442ab09b682d3cd64610aade748271be4dc30930e6a3d67b06bdc529d8.png,9,衝鋒 無法攻擊英雄,12,1,10,10,the-grand-tournament,其實牠只是閉眼睛衝向最近的目標而已。
+冰霜巨人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ceadc485a0ce397b9c3861d28138bfac21181e859bc7532f0babf2bd17186bd.png,10,在本賽局中，你每次使用英雄能力使消耗減少(1),12,1,8,8,the-grand-tournament,千萬別談到他的鬍子。

@@ -1,0 +1,7 @@
+{
+  "channel_access_token":"請填入channel_access_token",
+  "secret_key":"請填入secret_key",
+  "self_user_id":"請填入userid",
+  "server_url":"請填入網址",
+  "home_page_id":"請填入menuid"
+}

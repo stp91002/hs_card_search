@@ -1,0 +1,124 @@
+﻿name,cardImage_url,mana,text,class,type,attack,health,series,introduction
+電鍍機械小熊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df1fae8f16f000362c47458caad9170cfa83616af89af6ddf5845729e4c0dfb0.png,2,嘲諷。二選一： +1攻擊力或+1生命值,2,1,2,2,goblins-vs-gnomes,噢，好可愛呀！呃，天啊，牠為什麼要啃我的臉？！
+林地看管者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d43c3180c7843835e61d8fd8715c3fa7d191d3b83d7d5af5bf747858bd45bf37.png,3,二選一：賦予雙方 1顆法力水晶，或各抽一張牌,2,1,2,4,goblins-vs-gnomes,喜歡：爬山、大自然。不喜歡：哥布林伐木機、拖鞋。(因為找不到合腳的！)
+尖牙德魯伊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd50ffb12b8735e1b27ec21df006e420a245b5d1d442f59488b2671a48110577.png,5,戰吼：若你有野獸，此手下變形為7/7,2,1,4,4,goblins-vs-gnomes,為什麼尖牙德魯伊都住在哀嚎洞穴？因為他們出門以後就不叫尖牙德魯伊了。
+回收,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb14f955dea382850939b778718d738fadd9f189738e34d545583590615961b8.png,6,將一個敵方手下洗回你對手的牌堆中,2,0,,,goblins-vs-gnomes,德魯伊的回收方式是把塑膠分類在一袋，敵方手下分類在另一袋。
+機械熊-貓,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/928fcb02d55e0f6b6d93e016c71798435a694a627bdb4b26078cccc4f656bd90.png,6,每當此手下受到傷害，就放一張備用零件到你的手中,2,1,7,6,goblins-vs-gnomes,牠徒手拆建築物的效率讓怪手望塵莫及。
+黑暗幽光,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/affce570f4450f7ceaa6222e0f8087dbe084502ec8200ab06b7e8822e61521ad.png,6,二選一：召喚 5個幽光，或賦予一個手下+5/+5及嘲諷,2,0,,,goblins-vs-gnomes,不用擔心，我們把替這張卡牌命名的人開除了。
+瑪洛尼,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/608214fad266fdc443a203b0d61a3d6d7626bbfc43e8c5613caf5bcfd1084f4b.png,7,死亡之聲：將此手下洗入你的牌堆,2,1,9,7,goblins-vs-gnomes,我不是馴鹿！我不認識什麼聖誕老人！
+生命之樹,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cf9742b27a56c3e23f14cb2bb512ee2d7223295ef9119b571472b013b51893d.png,9,使全部角色 生命值恢復全滿,2,0,,,goblins-vs-gnomes,治療，是會長在樹上的！
+假死,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eabfa87ae6b19451603d7b55860236b320e49b1a061c45398870f130e1b6edf9.png,2,觸發你所有手下的死亡之聲,3,0,,,goblins-vs-gnomes,假死要裝得像，最難的就是連味道都要聞起來像是真的死掉一樣。千萬不要在家練習這個。
+旋刃火箭筒,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e42e6e2d044c98348e0fba1801950c5807dccea3e570309428cf4d15c22f48d8.png,2,戰吼：賦予一個隨機的友方手下+1攻擊力,3,2,2,2,goblins-vs-gnomes,當一般的火箭筒不夠力時，用這個就對了。
+熱砂狙擊手,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78ec68ff8b7ef3f9007bed4de803ca5a8c8dc0b96b0d3f27f2e244ab09121bf3.png,2,你的英雄能力能夠以手下為目標,3,1,2,3,goblins-vs-gnomes,難得有哥布林有耐心當狙擊手。他們大部分都喜歡衝上去丟手榴彈。
+召喚寵物,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8af689de44f42ac6dab4cc6e0e12bc7108c319deef47ead5e7da3ced0510bf35.png,2,抽一張牌。 若是野獸卡牌，其消耗減少(4),3,0,,,goblins-vs-gnomes,真正的獵人都抓飢餓的螃蟹。
+鋼牙獸,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2436950a39a94173bed2e8f8155c60746a41cbd887f32d378fb9a3ee5dced047.png,3,戰吼：賦予你其他的機械+2攻擊力,3,1,3,3,goblins-vs-gnomes,不要讓牠們淋雨。在安戈洛環形山那邊，鏽牙獸已經多到無法控制了。
+萬獸之王,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5ebd2512e841f779a3c89e4325fad6d090fa9d538ca217d1b30119eee1db8d4.png,5,嘲諷。戰吼：每擁有一隻其他野獸，便獲得+1攻擊力,3,1,2,6,goblins-vs-gnomes,獅子是萬獸之王。所以獅子王是萬獸之王之王。這樣說對吧？好，把剛才那句話很快的唸十次看看。
+眼鏡蛇射擊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ef1d36cfacb48fb5b5b77c80a4bf24253529710d1c656d992a660b8e06b5e42.png,5,對一個手下及敵方英雄造成 3點傷害,3,0,,,goblins-vs-gnomes,比較蹩腳的獵人通常會用青竹絲或龜殼花的蛇毒來蒙混過去。
+加茲瑞拉,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c4c52588b975c928243eddfab6d36e92764315f03438936e00f7ca62533c19d.png,7,每當此手下受到傷害，使其攻擊力加倍,3,1,6,9,goblins-vs-gnomes,森金高中的足球隊就是叫「加茲瑞拉隊」。
+烈焰火砲,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa63f3c63311400221511c544c993ea85574c44a926b49d6bb07ee68aca3fa49.png,2,對一個隨機 敵方手下造成 4點傷害,4,0,,,goblins-vs-gnomes,稱它為烈焰火砲，說實在的，並不能把它跟其他的哥布林裝置做出什麼區隔。反正都會冒火！！！
+剷雪機器人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a05f7cbd0e042e13d0785a79ed16e044d43c6c4bc1cfa3f04da6a077381a0985.png,2,凍結任何被此手下 傷害的角色,4,1,2,3,goblins-vs-gnomes,在他經過時跟著喊：剷剷剷！
+不穩定的傳送門,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05f90cd3eb9fd75af4284d8563d9c80beaf62b38992721fabe731a0441af76c4.png,2,放一張隨機手下到你的手中。它的消耗減少(3),4,0,,,goblins-vs-gnomes,艾澤拉斯的居民完全不知道要穩定傳送門得花上多少功夫。傳送門的維護費用佔了我們百分之三十的GDP。
+煤煙噴吐機器人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01f39e1c8873b8fc2267afb0aeef1faaf67f39f67f0faf9e7afa672506fdf0d7.png,3,法術傷害+1,4,1,3,3,goblins-vs-gnomes,據說哥布林伐木機的發明者跟煤煙噴吐機器人的發明者有好幾件官司正在打。
+哥布林轟炸法師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c1e71780010f069f5e1a868a343afaaed821903a21cdcb2ae8dcc1428b707a6.png,4,戰吼：若你有機械，造成4點傷害，隨機分給敵方角色,4,1,5,4,goblins-vs-gnomes,如果你手頭上沒有炸彈可以丟，隨便拿起一個哥布林的發明扔出去就對了。
+麥迪文的回音,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9b6dcf713a3323456fc4c953115b1e766f9efdb8ec43b5d544d4687566506db.png,4,複製場上每個友方手下，放到你的手中,4,0,,,goblins-vs-gnomes,麥迪文的回音仍在卡拉贊作祟，永恆地在西洋棋跟爐石戰記中作弊。
+嬌小的法術干擾師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99e317780106e2775c36a012b7c98c02f35cb58d74b02bda6e81ba7e23333307.png,4,兩側的手下無法被法術或英雄能力指定,4,1,2,5,goblins-vs-gnomes,聽說法師都恨她恨得牙癢癢的。
+烈焰戰輪,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62ab29f6391edf4b2c9dea80a97904100ed2bf815acaa4fb4669c74426191d78.png,7,當你抽中它時，對全部角色造成2點傷害,4,1,7,7,goblins-vs-gnomes,彌米倫喜歡開著烈焰戰輪出去兜風。
+光明聖印,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31e226b8cd512f4e686a3c242a9d789163217a728659041ac0ec9478ccdb470f.png,2,為你的英雄恢復 4點生命值，並賦予本回合+2攻擊力,5,0,,,goblins-vs-gnomes,有時候你不禁會猜想，如果有黑暗聖印，效果會是怎樣？
+護盾小機器人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/470bbb259947520d2c823fb9e8ef7b3504dc65016b01f62cf00673fa7b6d7125.png,2,聖盾術,5,1,2,2,goblins-vs-gnomes,它只相信它的程式碼中要它相信的事情！
+齒輪巨錘,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f99114fc6aaf65c4d04f1a4ceb660d6cf09a2c1c8aab2e24c1e8a4eea3670913.png,3,戰吼：賦予一個隨機的友方手下聖盾術及嘲諷,5,2,2,3,goblins-vs-gnomes,你說，把這個東西從機器裡扯出來，雕上一些符文，裝上把手，就變成了強大的神聖武器？嗯，聽起來還不賴。
+整裝備戰,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/052d25fef941983a3982d1f6844625c3f6a4ff308ba64548bb65fbad29e94cea.png,3,召喚三個1/1的白銀之手新兵。裝備一把1/4的武器,5,0,,,goblins-vs-gnomes,「披薩來了！」 -目前效果最棒的白銀之手戰吼
+血色淨化者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5835667fe6388a7c409eea2767e9f535573da4f1fd791c932acf988f6b0267ac.png,3,戰吼：對全部有 死亡之聲的手下 造成2點傷害,5,1,4,3,goblins-vs-gnomes,最近血色十字軍在做市場調查，看看換個顏色能不能更容易招人。
+軍需官,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42d0a51e522424a61e28dd1cdea3033386552fbe1fa4c3895f1a2232c85acfba.png,5,戰吼：賦予你的白銀之手新兵+2/+2,5,1,2,5,goblins-vs-gnomes,他很享受新兵誠惶誠恐來跟他拿裝備的感覺。事實上，是有點享受過頭了。
+鈷藍守護者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9382a8a5613ed27ccea87f81fec226e8b33a7bce134e48d3f47ee47126bdfef4.png,5,每當你召喚機械，獲得聖盾術,5,1,6,3,goblins-vs-gnomes,原本它們的材料是昂貴的源質礦，後來工廠遷到加基森，不知怎地就換成了便宜的鈷藍礦。
+伯瓦爾‧弗塔根,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b58a118470b0ce103fc9ea422ac9aa113b97d7b1c46510cccdd241b8dd598f86.png,5,若這張牌在你手中，每當友方手下死掉，便獲得+1攻擊力,5,1,1,7,goblins-vs-gnomes,劇透：伯瓦爾後來被火烤了一頓，然後坐在一個寒冰的王座上，接著就被所有人遺忘了。
+那魯之光,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/436958d32e2f758fed9c64a17429946c16eab662a218bc936e902bb02a732fe3.png,1,恢復 3點生命值。若目標仍然受傷，召喚一個護光者,6,0,,,goblins-vs-gnomes,「你跟過來做什麼？」
+暗影炸彈手,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d13fe24d481a2cd373ef53f168a332d70c5c9ba38a49ab833b1fd27894a594f.png,1,戰吼：對雙方英雄 造成3點傷害,6,1,2,1,goblins-vs-gnomes,暗影炸彈手會達成目標，但是她的工作態度有點隨便就是了。
+縮小射線工程師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d9c75a757746a1b57c559876cb1a4814c181e53432e0c7580a5d6b0ff2f099c.png,2,戰吼：本回合賦予 一個手下-2攻擊力,6,1,3,2,goblins-vs-gnomes,在地精世界放大器的那場災難過後，地精現在對改變大小的發明都很有戒心。
+暗影拳擊手,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5eceda526b16fb47a11ed87ad22836364365d4fcb9bdb9669b71cfb0dd280d90.png,2,每當有手下受到治療，對一個隨機敵人造成1點傷害,6,1,2,3,goblins-vs-gnomes,它的主要功能是直拳攻擊。它的次要功能…也是直拳攻擊。
+費倫的祝福,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11035f38dd3abf379bbe57e41eae98004157349ddd667ca3219556852e0c40a2.png,3,賦予一個 手下+2/+4及 法術傷害+1,6,0,,,goblins-vs-gnomes,據說費倫每天要收到幾百封希望他的祝福能做成護身符的請求。
+沃金,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/225f632a4326b3926bfee3cddbeda3fd959d61add4ad8a0d1787d55fc069d292.png,5,戰吼：與另一個手下對調生命值,6,1,6,2,goblins-vs-gnomes,沃金是個暗影獵手。跟暗影牧師差不多意思，只是更巫毒了點。
+升級版修理機器人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4fc33a8b9dfb3db9018627ff8ba075988fae8f151aa5c1fe4ef1ff29a9753959.png,5,戰吼：賦予一個友方機械+4生命值,6,1,5,5,goblins-vs-gnomes,其實這一代跟上一代一模一樣，他們只是在上面多刻了「升級版」三個字，然後把標價加倍。
+聖光炸彈,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf5c31693fd4bad80afa6e086037fab39b4fef3ef3fd8c982181bf7005ab9e17.png,6,對每個手下 造成等同其攻擊力的傷害,6,0,,,goblins-vs-gnomes,這就是讓哥布林當牧師的下場。
+哥布林自動理髮師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe7f600cae4d346f6d73f7af47e613f5b10ac2b139097bd44f1fb2126df6ee62.png,2,戰吼：賦予你的武器+1攻擊力,7,1,3,2,goblins-vs-gnomes,自動修整你的髮型，或者身高。
+獨眼騙子,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6266aae3166e7f454b2b503523d0b9da31d8cbe2861d08e70de3107e27728da.png,2,每當你召喚海盜，獲得潛行,7,1,4,1,goblins-vs-gnomes,海盜都會騙人，但他連海盜都能騙得死死的。
+齒輪大師的扳手,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89a183b07bd38ccb502681a16140d35c7a6705c5f810b16972a8f5f89cb64cd8.png,3,若你有機械則獲得+2攻擊力,7,2,1,3,goblins-vs-gnomes,拿來鎖齒輪跟敲穴居怪都同樣好用！
+鋼鐵師尊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8622c1679ce66eaef4068479a739c90bf0328c8983e8bf1901419c411d1e6706.png,3,在你的回合結束時，賦予另一個友方機械+2/+2,7,1,2,2,goblins-vs-gnomes,機械很喜歡向他學習，因為他真的會說機械語言。 01000111101001001
+破壞工作,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67932ff43cc7eebaf2f1cc589c4f2864674158b5eac9e50e1d3cf6f96c80a847.png,4,摧毀一個隨機敵方手下。連擊：也摧毀對手的武器,7,0,,,goblins-vs-gnomes,殺人放火金腰帶。所以殺完人，當然要順便放火，才叫完美的破壞工作。
+技工的磨刀油,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16acf8ba5daae87c9fbd9c20e0783b308d030f83cb7c5e27189dd491a1e28a0a.png,4,賦予你的武器 +3攻擊力 連擊：賦予一個隨機友方手下+3攻擊力,7,0,,,goblins-vs-gnomes,「加油！加油！加油！」-超老套的加油方式
+巨魔忍者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c0dbb014c289283bbf31547a1f9085124e31e5079d7c2875136b6ee6891f4a5.png,5,潛行 有50%機率攻擊 錯誤的敵人,7,1,6,6,goblins-vs-gnomes,他原本不符合進入忍者學校的條件。是他爸爸通過關係把他送進去的。
+貿易親王加里維克斯,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7448920195602633a5dc07045d2415033ebce75adf31283bf7328dc948e1495c.png,6,每當對手施放法術，獲得一張相同的法術，並給對手一枚硬幣,7,1,5,8,goblins-vs-gnomes,加里維克斯相信供需法則。他提供一頓飽打，但需要你支付他車馬費！
+漩渦打擊裝置,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0fb0f9ba0f791dd2e3c315dd439f89e7f05dac3316ffc3bb8a64194c77213a7.png,2,風怒,8,1,3,2,goblins-vs-gnomes,原本這個是拿來打蛋用的。
+轟雷,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9abc704597373a0922aa6c91b156bd3aa5a0cb10cdd95e8e99d3fd32cdc3556c.png,2,造成 3到 6點傷害。超載：(1),8,0,,,goblins-vs-gnomes,要發天打雷劈的毒誓之前，想想這張牌。
+活力圖騰,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0d89c768012de89771bbaf405a7153eafca798af5ce30f5f01986993eb5f5a8.png,2,在你的回合 結束時，為你的英雄 恢復 4點生命值,8,1,0,3,goblins-vs-gnomes,這些圖騰在週六的跳蚤市場上都可以找得到。
+動力戰錘,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b999ace51448703aaccd01de806e61678448a3b81470ca7bfc0c85c7b0c4bda.png,3,死亡之聲：賦予 一個隨機友方機械 +2/+2,8,2,3,2,goblins-vs-gnomes,人們以為薩滿能控制元素，但其實他們只是問元素說可不可以這樣那樣，然後元素回答說，噢好啊。
+先祖之喚,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32501d29bfb2c567aa4fd895c7513d3d0e0ace18f7ac9c0d0f7f525bca7d6e04.png,4,從雙方手中各挑選一個隨機手下並放到戰場,8,0,,,goblins-vs-gnomes,「哈囉先祖！你們好啊！」
+沙鰭靈行者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/883907d6fd1ae2fead50fae31feae9ec3ece91203a2269972a670d4a44e80c35.png,4,每當另一個友方魚人死亡，抽一張牌 超載：(1),8,1,2,5,goblins-vs-gnomes,不要以為魚人語就不能跟元素溝通。你看看他。
+砂槌薩滿,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c94af0dff0876751957ab5a321e23753f9af79f9ff686147b63dc6d3a28d0f1b.png,4,風怒，超載：(1) 有50%機率攻擊 錯誤的敵人,8,1,5,4,goblins-vs-gnomes,他通常都閉上眼睛亂敲一通。吼吼！
+奈普圖隆,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/433b8687a977133d9c9f7402efc21f889700a763bc21cb6798a16f8ba3969d1f.png,7,戰吼：放4張隨機的 魚人到你的手中 超載：(3),8,1,7,7,goblins-vs-gnomes,奈普圖隆是「獵潮者」，他是四大元素領主之一。他和拉格納羅斯共同舉辦的桑拿活動無人能比。
+黑暗炸彈,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76ac62a9ea314cd4aca6a5d8051cb89c0ada3644817f5d4c4cc00a858139c1a2.png,2,造成 3點傷害,9,0,,,goblins-vs-gnomes,如果你想要組一副自殺套牌，這張卡牌超好用的！
+苦痛女王,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fea09b5bf62cda5956e9d54c6108efe8ef8203ce01a4059658eb3a33a948050.png,2,生命竊取,9,1,1,4,goblins-vs-gnomes,「你不是苦痛侍女嗎？」 (啪！) 「叫我女王！」
+惡魔火砲,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29035c36617552a8e08f41c7428fdc4f10428acd21679fc084b81086be1d6d79.png,4,在你的回合結束時，對一個非機械的手下造成2點傷害,9,1,3,5,goblins-vs-gnomes,使用說明書上寫著：「最新升級版，保證多打1點！」
+小鬼爆破,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11984280e3ebafe687e36f7b79508dba6bea76926913093b654ea34c0660965a.png,4,對一個手下造成 2到 4點傷害。每造成一點傷害，便召喚一個1/1的小鬼,9,0,,,goblins-vs-gnomes,爆炸後的裂片，比爆炸本身還要糟多了。
+惡魔之心,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0de5f97054a8540268b75d00e0a96f789eb4598a2e564d3432bd22e79f70a46.png,5,對一個手下造成 5點傷害。若目標是友方惡魔，賦予它+5/+5,9,0,,,goblins-vs-gnomes,幾乎每個贊成通過惡魔使用法案的人都是術士。怪了。
+漂浮看守者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ed66dced1082fae06de2420f81f656934a299d348848c6d6823d65d42929cf4.png,5,每當你的英雄在你的回合中受到傷害，獲得+2/+2,9,1,4,4,goblins-vs-gnomes,一開始他的名字是「邪惡之眼末日看守者」，後來行銷部門的人覺得這個名字太有侵略性，怕影響到銷售，就改了。
+憎惡魔像,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8005f1bcf4771299ad01cb5e200c98d4d3eecbeef3830151929523d97aaecb9.png,6,每個回合結束時，若此手下是你唯一在場上的手下，摧毀它,9,1,9,9,goblins-vs-gnomes,黑暗憎惡魔像很邪惡、神秘、巨大，而且一個句子都寫不完整。
+瑪爾加尼斯,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cdc67ea9e3eecc86a5f6e70c8b0b7b20d14f62f8408bfce06744057d4028909a.png,9,你的其他惡魔擁有+2/+2。 你的英雄免疫,9,1,9,7,goblins-vs-gnomes,瑪爾加尼斯不喜歡被背叛，所以如果你把他捨棄，最好把皮繃緊一點。
+戰爭機器人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e22136186336f9dc12baf9b5c4112117a094f2daea0f70edaf9e1e6e7dfa79d6.png,1,受傷時+1攻擊力,10,1,1,3,goblins-vs-gnomes,戰爭機器人的量產在突然發現尺寸輸出成樣品版後喊停。結果達拉然的神奇玩具屋忽然就被數以千計的戰爭機器人玩具塞爆了。
+彈跳鋒刃,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3f9c5842bf0be417de802394c27f14691e2d877be9f0ec3c1dcf13449de453d.png,3,對一個隨機手下造成 1點傷害。反覆彈跳直到一個手下死亡為止,10,0,,,goblins-vs-gnomes,只有哥布林會覺得這是個好主意。現在，就連他們自己也開始產生疑慮了。
+巨魔戰槌,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/907f2bdae14208eb4634d037c943edce53da8c3ab38cd7bcb76cea4ad47362d8.png,3,有50%機率攻擊 錯誤的敵人,10,2,4,2,goblins-vs-gnomes,簡單，粗暴，異常危險。你懂的，就跟大部分的巨魔武器一樣。
+破舊的維修機甲,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f3e254d3d8339d54570291aa24cdaa699fcc6c3b18581d4975c1512f3ec9beb.png,4,戰吼：賦予一個友方機械+2/+2,10,1,2,5,goblins-vs-gnomes,如果出現故障，從屁股下面45度角踢它幾下通常可以修好。
+攻城機具,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59c631cd497bc59842b1688d8bc9fdef11ed211456249f6b74c1b7901988990a.png,5,每當你獲得護甲值，賦予此手下+1攻擊力,10,1,5,5,goblins-vs-gnomes,冬握湖要塞唯一的弱點！
+女盾侍,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3bb049a9f425bbf814bb1c59277c9ea752587c4cfea467a5bd31e596a0e9130b.png,6,戰吼：獲得5點護甲值,10,1,5,5,goblins-vs-gnomes,她通常會帶著三個執盾兵跟班，這樣盾牌只要快壞了就能馬上換新的。
+鋼鐵破滅邪神,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce170e8bdf6fee5a433b5455a69cc9a73e8f1d576f4dd4b4f65d1084bf0c71c8.png,6,戰吼：將一顆地雷洗入對手的牌堆。抽中時對其造成10點傷害,10,1,6,5,goblins-vs-gnomes,鋼鐵破滅邪神守護著奧格瑪，而且才剛剛獲得「本月最佳員工」獎項！
+粉碎,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f55ebd65923ba8542ff324d4012ef84f8ab90f9d7df44619f9b370d798e024fb.png,7,摧毀一個手下。若你有受傷的手下在場上，消耗減少(4),10,0,,,goblins-vs-gnomes,很多野蠻人都說，使用這張牌的感覺令他們畢生難忘。
+訓練假人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3211181e6518ac16b891eadb9265b09a6dabbb8d381735cd814713e9f2cac01f.png,0,嘲諷,12,1,0,2,goblins-vs-gnomes,這個假人的頭上貼著一張紙條，上面寫著：「打我啊！」
+齒輪大師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0995bff1d3f02fafc1d64d738b98ec8302071106df01f4ea14a22e26b4919b2f.png,1,若你有機械 則獲得+2攻擊力,12,1,1,2,goblins-vs-gnomes,過一陣子，你看到的就不是齒輪跟扣鏈，而是機器人、蜘蛛坦克、死亡射線槍等等各式各樣的怪東西…
+發條地精,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a23882271794815beeb16506f05a5cf81e68d64b0c060f1a0fcc731a3fb06b7.png,1,死亡之聲：放一張備用零件到你的手中,12,1,2,1,goblins-vs-gnomes,發條地精最常問的問題就是現在幾點鐘。
+機械召喚師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d83713cf90d9a0418948b8e94e99a1ef7b7c4a873dcc466be3756c9e3f37b6c4.png,2,你的機械消耗 減少(1),12,1,2,3,goblins-vs-gnomes,會召喚機械的機械？接下來呢？會召喚甜甜圈的甜甜圈嗎？嗯…聽起來不錯。
+淤泥踐踏者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcb8243a998095387f704dcd8e39b17c87668d40cad4fe838450c9c6bccd2c74.png,2,,12,1,3,2,goblins-vs-gnomes,他的偶像是偉大的魚人神諭者莫哥！(有誰不是呢？)
+石裂穴居怪,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdecf2905609170a503d5e65a6b7a53d6f64b5d0154e7d8b91c0614b409414e5.png,2,每當對手施放法術，獲得+1攻擊力,12,1,2,3,goblins-vs-gnomes,傳說跟穴居怪關在一起的臭味足以讓最強硬的嫌犯在三天內把一切都招了。
+船艦主砲,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db3357b5aaa515c96ed126077f622d8690e24ad3e7003dac43d46baecd41cc6c.png,2,在你召喚海盜後，對一個隨機敵人造成2點傷害,12,1,2,3,goblins-vs-gnomes,等你聽到有人喊「砲擊！」時，通常不是沒事，就是已經太晚了。
+自爆綿羊,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7bbca35b00205da0ee3f2f6c99be30f661cb183dd8c09b69ca5ff16e1aa0883.png,2,死亡之聲：對全部手下造成2點傷害,12,1,1,1,goblins-vs-gnomes,這玩意兒怎麼使用呢？你以為你的敵人會說：「唉呀，好可愛的羊啊！」然後跑過去抱它起來玩嗎？
+吉爾布林潛獵者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/471cc68e8e70317daeb8483a38bd9543289bf6e7de23bc64be54ef9c313427ee.png,2,潛行,12,1,2,3,goblins-vs-gnomes,「等等！我聽到怪聲。」 「啊，大概是我聽錯了。」-很多守衛死前的最後兩句話。
+煩人機器人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f30bbb7e3b921eac2c2719933dc0be9898446f3f1a6aa86d1b29b5b7d53fb34c.png,2,嘲諷 聖盾術,12,1,1,2,goblins-vs-gnomes,煩人機器人的發明者被技工學校立即退學，然後被趕出地精區，最後整個被踢出東部王國。
+微型裝甲,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d22bd83fe3fdeda5dbbda9e03fca7953439238785d8103e94b03eff2f351e37.png,2,在每個回合開始時獲得+1攻擊力,12,1,1,2,goblins-vs-gnomes,沒有人敢小覷它的威力。
+重組轉化師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d12001bbd439abfd3c54ee5767a194da844ce547a2c80ca9a57f32835bca681.png,2,戰吼：將一個友方手下變形為另一個相同消耗的隨機手下,12,1,3,2,goblins-vs-gnomes,上場前記得先禱告一下。
+蜘蛛坦克,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19bc89312ce49b7a1703f238f74432f997e641958059ff9e0a4e52c9229191e0.png,3,,12,1,3,4,goblins-vs-gnomes,「如果我們把槍砲裝上去會怎樣？」-菲茲布里茨對著蜘蛛型運輸工具如是說。
+巨魔蠻卒,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b75efde7d3685c8f3caafd8629da1891f48cfdc6e3f3bb65a99f800aac42488e.png,3,有50%機率攻擊 錯誤的敵人,12,1,4,4,goblins-vs-gnomes,有一個學說主張，要不是巨魔有這種嚴重的問題，他們早就統治全世界了。
+飛行器,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46062b5ec48e28bb2dd3cb3a01012e0aac765b254917b4e4a1f1d6879f4a5a91.png,3,風怒,12,1,1,4,goblins-vs-gnomes,不會飛的飛行器叫什麼？下一個資料片再告訴你。
+光明引路者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0186f135ac3f0a9ee5b1d966f02f8d76ebc40276c3bb04d339ab17a6f79d2350.png,3,若你場上有秘密，在你的回合結束時為你的英雄恢復 4點生命值,12,1,2,4,goblins-vs-gnomes,他們不是喊「路摸思」啦。你以為這裡是霍格華茲學院？
+地精實驗家,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a62dabbf732ebfbeaaeccdc2d0b4ded90009079855811ed483e0d563f3495f9.png,3,戰吼：抽一張牌。若抽到手下，將它變形為一隻雞,12,1,3,2,goblins-vs-gnomes,哈哈，我怎麼可能把自己變成…咕咕！咕咕！
+哥布林工兵,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/054534853ce6bff815deb0a4b17cce298f4001038ac9cf216f396e9af373876d.png,3,若對手有6張以上的手牌，便獲得+4攻擊力,12,1,2,4,goblins-vs-gnomes,拆雷、爆破他都會。比較需要擔心的是他一邊拆，一邊爆。
+小小驅魔者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f458e782123842a4bb25dd8d360017743de7fb382087867e287462ba60f269ac.png,3,嘲諷。戰吼：場上每個有死亡之聲的敵方手下使其+1/+1,12,1,2,3,goblins-vs-gnomes,很多術士都把她的電話號碼背了起來，以免叫錯惡魔時求救無門。
+諾姆瑞根步兵,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77555406435dcfa41418b9dd9120f333ec9ad7743f38aa57c2ac2c1802349de7.png,3,衝鋒 嘲諷,12,1,1,4,goblins-vs-gnomes,這些英勇的地精士兵們已經準備好要回到他們被輻射汙染、排水系統差勁的家園了！
+地精區技師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d620b8b063f99736ad9c891736371100115b2a71c59aa29e23f9e42d7527f88.png,3,戰吼：若你有機械，獲得+1/+1並放一張備用零件到你的手中,12,1,3,3,goblins-vs-gnomes,他經常夾帶零件回家。事實上，幾乎每個技師都這麼做。
+大哥布林,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a64013b34d85b7ddd482d9a8a5f81eb98a69707995fd2c6c529f2c0b5ed1bf1c.png,3,每當你打出 攻擊力為1的手下，賦予該手下+2/+2,12,1,2,3,goblins-vs-gnomes,大哥布林下個星期要聚會討論公會福利。在清單上的第一個項目是：牙醫津貼。
+魁梧的石顎穴居怪,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03868a81b1bdf82907a887106a1017c26980454d8828f84101746c63f0bf11ba.png,4,每當對手施放法術，獲得+2攻擊力,12,1,3,5,goblins-vs-gnomes,魁梧是相對穴居怪來說。你的話，當然可以叫他矮冬瓜。
+迷路的陸行鳥,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aebbfcb3f53e104b041917a6242c1110ccc2d5edc269ac29b1a53053e42ead50.png,4,,12,1,5,4,goblins-vs-gnomes,牠的屁股上有著刺青，寫著：若看到牠，請送回莫高雷。
+凱贊秘術使,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d84a97d8415706e753464336185f5338f19971ce37efc6d407f8e1ca29335539.png,4,戰吼：控制一個隨機的敵方秘密,12,1,4,3,goblins-vs-gnomes,他們假裝很有智慧又高深莫測，但其實他們超八卦的，打聽秘密是他們最愛的活動。
+機械雪人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1616ad3d3020a76ae6413de8435d2c7c2a94a4dc51d0600c07918d940d1fa4aa.png,4,死亡之聲：給雙方 一張備用零件,12,1,4,5,goblins-vs-gnomes,冰風崗哨的雪人經常在聯盟與部落之間的爭鬥中遭到池魚之殃。
+秘法剋星X-21,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac1e28b3270d68bc8c63fc09b0080b61401cd59a203558fd268e5e15c82b87c5.png,4,嘲諷 無法被法術或英雄能力指定,12,1,2,5,goblins-vs-gnomes,為了這個新發明，地精法師跟地精工程師差點翻臉打起來。
+吉福斯,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7edfa218347c6c0388a93f8cb6a00357baa85bb9f51fadc1c9d6fec9066c85dc.png,4,幫回合結束的玩家抽牌，直到該玩家手中至少有三張牌,12,1,1,4,goblins-vs-gnomes,這個管家機器人最大的問題就是 - 管太多。
+有駕駛的伐木機,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ddf0f0b2700d92606bd9a30d87fde5cdb5ac1d6ea04953b1150e73e59ce5426e.png,4,死亡之聲：召喚 一個法力消耗為2的 隨機手下,12,1,4,3,goblins-vs-gnomes,以前只有哥布林會駕駛伐木機。現在？連末日預言者跟博學行者阿洲都開了一台在跑。
+強化機器人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c11f359f80c308b2cd6c49bd13422062221545f43eb8c6e01be302bbf453c03.png,4,戰吼：隨機賦予你其他手下風怒、嘲諷或聖盾術,12,1,3,2,goblins-vs-gnomes,他的強化可以賒帳，不收利息，可以說是人人都愛！
+迷你法師,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7ef4035ee8bb98256ef77ccdd736d3fdcab045d2d9a22af99e4e277d455ad10.png,4,潛行 法術傷害+1,12,1,4,1,goblins-vs-gnomes,有時候在古拉巴什競技場的寶箱裡可以找到他。
+惡魔劫奪者,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9dafdf10c312ace8de96430d8d1f1a39103232d7c6e4d78735a30279205dc2da.png,5,每當對手出一張牌，移除你牌堆最上面的三張牌,12,1,8,8,goblins-vs-gnomes,反正只要夠大隻就行了！
+古董治療機器人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dbc02fee630305dc07561009801e4df10a9dffde1ffcdafed424c01318fc93ee.png,5,戰吼：使你的英雄 恢復 8點生命值,12,1,3,3,goblins-vs-gnomes,這個型號已經停產了！(因為發生了幾起爆炸事故)
+老水手,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae13d7e4f72d1c5e5f57a0799101ce98b32d820abda5b97987306defa9908401.png,5,,12,1,7,4,goblins-vs-gnomes,他終於擺脫「那個菜鳥」的稱謂了。
+更瘋狂的炸彈客,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/454c80cc5e208c776f5163b9675dfcc34d80dcb423cd1984deee0989fb4bd69d.png,5,戰吼：造成6點傷害，隨機分給其他角色,12,1,5,4,goblins-vs-gnomes,你說瘋狂炸彈客很機車？來，看看這一位。
+投彈手,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7e2372c55c4ed9b89120b493a70625335d320fba5fc4bd2c72f3d63b777d0db.png,5,戰吼：對一個隨機敵方手下造成4點傷害,12,1,3,3,goblins-vs-gnomes,最近上頭對他因誤炸而收到的帳單金額感到很不滿意。
+拾荒機器人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0497520b06dcb0c26f710202f961bc3412db48cf610d0d14bd2bb314d4120bd6.png,5,每當一隻友方機械死亡，獲得+2/+2,12,1,1,5,goblins-vs-gnomes,一個機器人的垃圾零件，對另一個機器人來說可是超讚的升級零件！
+彌米倫之首,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41874c31b8561f141269f9aaa196b72a2aaa64a00e32a2990a588509ad27767a.png,5,在你的回合開始時，若你有至少3個機械，將它們全部摧毀並組成 V-07-TR-0N,12,1,4,5,goblins-vs-gnomes,千萬別按那個最大的紅色按鈕！
+布靈登3000型,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3b43067e69e4b5140492e0ec510170c5b9e012356ca64e5490921c9eefc5d4b.png,5,戰吼：雙方各裝備 一把隨機武器,12,1,3,4,goblins-vs-gnomes,立刻執行派對準備指令。
+赫米特‧奈辛瓦里,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8733ea8c7d6b961f63ca086995df1e8d05eb29ffa9caa4f3ed9fed4b450f1bfa.png,5,戰吼：摧毀一隻野獸,12,1,6,3,goblins-vs-gnomes,在一個野獸被殺死後沒幾分鐘就重新出現的世界當獵人，真不知道該說幸還是不幸。
+有駕駛的飛天魔像,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0fb0d894b1234a727b7ab0207f79e3835788f359bd30b5b3fce6640e7dab4f8.png,6,死亡之聲：召喚 一個法力消耗為4的 隨機手下,12,1,6,4,goblins-vs-gnomes,哥布林工程學的巔峰成就。內建義式咖啡機及腳底按摩功能。
+巨魔莫古,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca86ac6c5961a50d89a00b3366fd5c2fa1ab5345d2bbf8a70cba9f9aa32e6ebd.png,6,全部的手下都有50%機率攻擊錯誤的敵人,12,1,7,6,goblins-vs-gnomes,莫古曾經幫忙重新開啟黑暗之門。你也知道需要依賴巨魔幫忙的後果。
+托斯利,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6d5d88f795c45f92eb6abe8a2b958324b257a8c9eeb30d32e424d23b3b96927.png,6,戰吼及死亡之聲：放一張備用零件到你的手中,12,1,5,7,goblins-vs-gnomes,他似乎跟能量轉換器之類的東西有點關聯。
+加茲魯維,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13c271af02dd60a4ae0453fa49ed76d41839a3cd2283fe51739bd2cff47f5932.png,6,每當你施放消耗為1的法術，放一個隨機的機械到你的手中,12,1,3,6,goblins-vs-gnomes,上高中時，加茲魯維以最高票當選「最有可能爆炸死亡的人」。
+爆爆博士,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94b042d0ecc3aef78b734106fdaf952ca1076efb8496bc354382d988382557fe.png,7,戰吼：召喚兩個1/1的爆爆機器人。警告：它們有爆炸之虞,12,1,7,7,goblins-vs-gnomes,讚嘆他的力量！
+特洛格佐爾,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07ccafa2c0c86748dd5a6d2a740edf1e5bceff5a6721154ea7aab608229d4d06.png,7,每當對手施放法術，召喚一個魁梧的石顎穴居怪,12,1,6,6,goblins-vs-gnomes,不要小看穴居怪。不信，你讓特洛格佐爾砸一下試試。
+超能坦克麥克斯,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cae392ec05eba4f9562690cd8e5ee19bac59b8603d4c6ef2be72c01c1247da2f.png,8,聖盾術,12,1,7,7,goblins-vs-gnomes,在塔納利斯有一間專門製造超能坦克的軍工廠，只製造出兩台就因為嚴重超支而停產了。
+敵人收割者4000,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0e7d8ff3b93493ac8cc5cba88cb3fbcb1cbfc7a44ebb000cc004eccca2eecc4.png,8,同時也會對它目標兩側的手下造成傷害,12,1,6,9,goblins-vs-gnomes,收割敵人跟收割農作物其實沒什麼兩樣。
+斯尼德的伐木機,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e163843637804dafcffd6edb1dfd2e7f52dfd8cc116635c01f246abe32d8ed0.png,8,死亡之聲：召喚一個隨機的傳說手下,12,1,5,7,goblins-vs-gnomes,斯尼德在死亡礦坑被擊敗後，他的伐木機就被一個不知名的買家從拍賣場買走了。(大概是霍格。)
+機電師瑟瑪普拉格,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ae006527f0c0fb14b999220631eb1108d82d4202a00f415c8365ef99d6d35d4.png,9,每當有敵方手下死亡， 召喚一個麻瘋地精,12,1,9,7,goblins-vs-gnomes,他以前是炸藥偏執狂，直到他愛上針織毛衣。現在他逢人就喊：「毛衣！更多的毛衣！」
+發條巨人,https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa0b7841d890cfb6a70e45f580f0703fa9402ec6d0cdd4dcce48c36692435038.png,12,對手的每張手牌使 消耗減少(1),12,1,8,8,goblins-vs-gnomes,他跟山嶺巨人不和。
